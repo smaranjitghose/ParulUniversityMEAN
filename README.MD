@@ -12,7 +12,7 @@
 
 ## **📚Course Modules**
 
-| Sl No | Unit | Topics | Reference Material | Assignment(s) | Quiz |
+| Sl No | Unit | Topics | Reference Material | Assignment(s) | Practice Problem(s) |
 | -----|-------|------|--------------------|--------------|---------|
 |1|MongoDB | | [MongoDB PPT](https://docs.google.com/presentation/d/12XiAi6RdUKSFSPMT48XqZOEfVs2ODAS-0owVdHcVhSw/edit?usp=sharing) | [MongoDB Practice 1]() | |
 
