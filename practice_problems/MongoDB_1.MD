@@ -1,6 +1,6 @@
 # Assignment 1
 
-- Create a database assignment1 and insert the following into a collection called `movies`
+- Create a database `assignment1` and insert the following into a collection called `movies`
 
 ```js
 {
