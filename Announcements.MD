@@ -15,14 +15,24 @@
 
 Week 1:
 
+3/12/2023 - 8/12/2023
+
 - First Meet and Greet with Faculty
+  - [LinkedIN](https://github.com/smaranjitghose)
+  - [GitHub](https://www.linkedin.com/in/smaranjitghose/)
 - Discussion over [Academic Calender](https://github.com/smaranjitghose/ParulUniversityMEAN/blob/main/Academic_Calender.pdf)
 - Course Structure and Syllabus
 - Tentative Schedule
 - Grading and Exams
 
+**🎯Topics Covered**:
+- Local System Setup
+- GitHub Account Setup
+- Version Control with Git
+- GitHub
 
+---
 
-#### 📦Miscellanous Documents:
+## 📦Miscellanous Documents:
 
 - [Academic Calender](https://github.com/smaranjitghose/ParulUniversityMEAN/blob/main/Academic_Calender.pdf)
