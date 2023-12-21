@@ -26,6 +26,7 @@ Week 1:
 - Grading and Exams
 
 **🎯Topics Covered**:
+
 - Local System Setup
 - GitHub Account Setup
 - Version Control with Git
