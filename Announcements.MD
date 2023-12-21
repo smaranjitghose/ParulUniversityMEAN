@@ -25,7 +25,7 @@ Week 1:
 - Tentative Schedule
 - Grading and Exams
 
-**🎯Topics Covered**:
+## **🎯Topics Covered**:
 
 - Local System Setup
 - GitHub Account Setup
