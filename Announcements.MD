@@ -31,6 +31,7 @@
 
 ## Week 2:
 
+📅 11/12/2023 - 15/12/2023
 
 #### **🎯Topics Covered**:
 - Introduction to NoSQL
