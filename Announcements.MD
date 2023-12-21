@@ -13,7 +13,7 @@
 
 ----
 
-Week 1:
+## Week 1:
 
 3/12/2023 - 8/12/2023
 
@@ -25,7 +25,7 @@ Week 1:
 - Tentative Schedule
 - Grading and Exams
 
-## **🎯Topics Covered**:
+#### **🎯Topics Covered**:
 
 - Local System Setup
 - GitHub Account Setup
