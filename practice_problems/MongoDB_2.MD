@@ -1,6 +1,8 @@
 ## Assignment 2
 
-Download the dataset [users.json] and add it to a new collection
+Download the dataset [users.json](https://github.com/smaranjitghose/ParulUniversityMEAN/blob/main/practice_problems/users.json) and add it to a new collection
+
+Answer the following questions
 
 1) Get the number of active users
 2) What is the average age of all users?
