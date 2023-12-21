@@ -12,3 +12,17 @@
 
 
 ----
+
+Week 1:
+
+- First Meet and Greet with Faculty
+- Discussion over [Academic Calender](https://github.com/smaranjitghose/ParulUniversityMEAN/blob/main/Academic_Calender.pdf)
+- Course Structure and Syllabus
+- Tentative Schedule
+- Grading and Exams
+
+
+
+#### 📦Miscellanous Documents:
+
+- [Academic Calender](https://github.com/smaranjitghose/ParulUniversityMEAN/blob/main/Academic_Calender.pdf)
