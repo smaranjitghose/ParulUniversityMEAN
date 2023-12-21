@@ -9,6 +9,8 @@
 
 📅 18/12/2023 - 22/12/2023
 
+- Discussion about final project and initimation of group formation
+
 #### **🎯Topics Covered**:
 - Aggregation Pipelines (MongoDB)
 - Replication (MongoDB)
