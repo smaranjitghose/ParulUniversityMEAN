@@ -76,3 +76,6 @@
 ## 📦Miscellanous Documents:
 
 - [Academic Calender](https://github.com/smaranjitghose/ParulUniversityMEAN/blob/main/Academic_Calender.pdf)
+- [MongoDB Installation Guide]
+  - [MacOS - MongoDB](https://www.mongodb.com/docs/v3.0/tutorial/install-mongodb-on-os-x/)
+-
