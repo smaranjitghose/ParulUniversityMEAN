@@ -6,30 +6,27 @@ Download the [movies.json](https://github.com/smaranjitghose/ParulUniversityMEAN
 
 Q1. Find all movies with full information from the 'movies' collection that 
 
-- were released in the year 1893.
-- have	a runtime greater than 120 minutes
-- have "Short" genre.
-- were directed by "William K.L. Dickson"
-- were released in the USA
-- are rated as "UNRATED"
+ - were released in the year 1893.
+ - have	a runtime greater than 120 minutes
+ - have "Short" genre.
+ - were directed by "William K.L. Dickson"
+ - were released in the USA
+ - are rated as "UNRATED"
 
 Q2. Find the names of all  movies that have
 
-have received more than 1000 votes on IMDb
+ - have received more than 1000 votes on IMDb
+ - have an IMDb rating higher than 7
+ - viewer rating higher than 4 on Tomatoes
+ - have received an award
 
-Solution
-
-have an IMDb rating higher than 7
-
-Solution
-
-- viewer rating higher than 4 on Tomatoes
-- have received an award
 Q3. Find all movies with title, languages, released, directors, writers, awards, year, genres, runtime, cast, countries that:
+ 
  - have at least one nomination
  - have a case including "Charles Kayser".
  - were released on May 9, 1893
  - have a word "scene" in the title
+
 Q4.  Find all movies with title, languages, released, directors, viewer, writers, countries that have a viewer rating of at least 3 and less than 4 on Tomatoes.
 Q5. Retrieve all movies with title, languages, released, year, directors, writers, countries that released before the year 1900.
 Q6.  Find all movies with title, languages, fullplot, released, directors, writers, countries from the 'movies' collection in MongoDB that have a fullplot containing the word "fire".
