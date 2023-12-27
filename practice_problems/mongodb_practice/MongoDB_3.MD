@@ -3,9 +3,8 @@
 
 Download the [movies.json](https://github.com/smaranjitghose/ParulUniversityMEAN/blob/main/practice_problems/datasets/movies.json) dataset and add it to a new collection
 
-1. Find all movies with full information from the 'movies' collection that released in the year 1893.
-
-2. Find all movies with full information from the 'movies' collection that have a runtime greater
+1) Find all movies with full information from the 'movies' collection that released in the year 1893.
+2) Find all movies with full information from the 'movies' collection that have a runtime greater
 than 120 minutes.
 
 3. Find all movies with full information from the 'movies' collection that have "Short" genre.
