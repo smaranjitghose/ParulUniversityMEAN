@@ -36,13 +36,21 @@ Q6.  Find all movies with title, languages, fullplot, released, directors, write
 Q7. Return all movies with title, languages, plot, released, directors, writers, and countries where the word "beer" mentioned in the plot.
 
 Q8. Return all movies with title, languages, fullplot, released, directors, writers, and countries where the word "metal" mentioned in the fullplot.
+
 Q9. Find all movies with title, languages, released, runtime, directors, writers, countries that have a runtime between 60 and 90 minutes.
+
 Q10. Find the top 5 highest IMDb ratings and display their title, languages, released, runtime, directors
+
 Q11. Find the average runtime of movies released in each country.
+
 Q12. Find the most common genre among the movies.
+
 Q13. Find the movies released in the year with the highest average IMDb rating
+
 Q14. Find the top 10 directors with the most movies 
+
 Q15. Find the movies with different ratings (e.g., 'PG', 'R', 'G') 
+
 Q16. Find the oldest movie with an award win 
 
 
