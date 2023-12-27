@@ -28,9 +28,13 @@ Q3. Find all movies with title, languages, released, directors, writers, awards,
  - have a word "scene" in the title
 
 Q4.  Find all movies with title, languages, released, directors, viewer, writers, countries that have a viewer rating of at least 3 and less than 4 on Tomatoes.
+
 Q5. Retrieve all movies with title, languages, released, year, directors, writers, countries that released before the year 1900.
+
 Q6.  Find all movies with title, languages, fullplot, released, directors, writers, countries from the 'movies' collection in MongoDB that have a fullplot containing the word "fire".
+
 Q7. Return all movies with title, languages, plot, released, directors, writers, and countries where the word "beer" mentioned in the plot.
+
 Q8. Return all movies with title, languages, fullplot, released, directors, writers, and countries where the word "metal" mentioned in the fullplot.
 Q9. Find all movies with title, languages, released, runtime, directors, writers, countries that have a runtime between 60 and 90 minutes.
 Q10. Find the top 5 highest IMDb ratings and display their title, languages, released, runtime, directors
