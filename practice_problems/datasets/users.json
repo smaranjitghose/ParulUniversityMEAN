@@ -1,0 +1,552 @@
+[
+    {
+        "name": "James Miller",
+        "isActive": true,
+        "registered": "2018-11-15T05:17:34+0000",
+        "age": 40,
+        "gender": "male",
+        "eyeColor": "hazel",
+        "favoriteFruit": "mousambi",
+        "company": {
+            "title": "TechSupport",
+            "email": "jamesmiller@techsupport.com",
+            "phone": "+1 (555) 5101037",
+            "location": {
+                "country": "UK",
+                "address": "654 Elm Road"
+            }
+        },
+        "tags": [
+            "culpa",
+            "anim"
+        ]
+    },
+    {
+        "name": "Sarah Johnson",
+        "isActive": false,
+        "registered": "2011-09-29T22:21:42+0000",
+        "age": 35,
+        "gender": "female",
+        "eyeColor": "green",
+        "favoriteFruit": "banana",
+        "company": {
+            "title": "NextGenSolutions",
+            "email": "sarahjohnson@globaltech.com",
+            "phone": "+1 (555) 3683348",
+            "location": {
+                "country": "USA",
+                "address": "761 Maple Avenue"
+            }
+        },
+        "tags": [
+            "tempor",
+            "nostrud"
+        ]
+    },
+    {
+        "name": "Michael Brown",
+        "isActive": true,
+        "registered": "2022-08-07T06:29:50+0000",
+        "age": 55,
+        "gender": "female",
+        "eyeColor": "brown",
+        "favoriteFruit": "mousambi",
+        "company": {
+            "title": "DigitalWorld",
+            "email": "michaelbrown@smartsolutions.com",
+            "phone": "+1 (555) 2930251",
+            "location": {
+                "country": "France",
+                "address": "225 Oak Street"
+            }
+        },
+        "tags": [
+            "proident",
+            "culpa"
+        ]
+    },
+    {
+        "name": "Emily Wilson",
+        "isActive": true,
+        "registered": "2010-09-19T15:40:01+0000",
+        "age": 34,
+        "gender": "female",
+        "eyeColor": "gray",
+        "favoriteFruit": "grapes",
+        "company": {
+            "title": "EcoTech",
+            "email": "emilywilson@ecotech.com",
+            "phone": "+1 (555) 7848967",
+            "location": {
+                "country": "India",
+                "address": "346 Maple Avenue"
+            }
+        },
+        "tags": [
+            "elit",
+            "anim"
+        ]
+    },
+    {
+        "name": "David Smith",
+        "isActive": true,
+        "registered": "2012-01-04T01:34:13+0000",
+        "age": 24,
+        "gender": "male",
+        "eyeColor": "green",
+        "favoriteFruit": "grapes",
+        "company": {
+            "title": "GlobalTech",
+            "email": "davidsmith@nextgensolutions.com",
+            "phone": "+1 (555) 8970047",
+            "location": {
+                "country": "USA",
+                "address": "206 Pine Lane"
+            }
+        },
+        "tags": [
+            "dolore",
+            "officia"
+        ]
+    },
+    {
+        "name": "Emma Jones",
+        "isActive": true,
+        "registered": "2022-04-09T18:11:16+0000",
+        "age": 28,
+        "gender": "female",
+        "eyeColor": "brown",
+        "favoriteFruit": "apple",
+        "company": {
+            "title": "InnovateInc",
+            "email": "emmajones@globaltech.com",
+            "phone": "+1 (555) 6527838",
+            "location": {
+                "country": "France",
+                "address": "282 Maple Avenue"
+            }
+        },
+        "tags": [
+            "proident",
+            "excepteur"
+        ]
+    },
+    {
+        "name": "John Davis",
+        "isActive": false,
+        "registered": "2012-02-04T10:36:39+0000",
+        "age": 26,
+        "gender": "male",
+        "eyeColor": "hazel",
+        "favoriteFruit": "mango",
+        "company": {
+            "title": "InnovateInc",
+            "email": "johndavis@globaltech.com",
+            "phone": "+1 (555) 4147347",
+            "location": {
+                "country": "UK",
+                "address": "476 Oak Street"
+            }
+        },
+        "tags": [
+            "laboris",
+            "officia"
+        ]
+    },
+    {
+        "name": "Olivia Garcia",
+        "isActive": true,
+        "registered": "2012-06-18T03:09:58+0000",
+        "age": 47,
+        "gender": "female",
+        "eyeColor": "hazel",
+        "favoriteFruit": "mango",
+        "company": {
+            "title": "SmartSolutions",
+            "email": "oliviagarcia@smartsolutions.com",
+            "phone": "+1 (555) 4957253",
+            "location": {
+                "country": "UK",
+                "address": "753 Oak Street"
+            }
+        },
+        "tags": [
+            "laboris",
+            "laboris"
+        ]
+    },
+    {
+        "name": "Daniel Rodriguez",
+        "isActive": false,
+        "registered": "2019-02-24T08:41:12+0000",
+        "age": 32,
+        "gender": "male",
+        "eyeColor": "green",
+        "favoriteFruit": "apple",
+        "company": {
+            "title": "EcoSolutions",
+            "email": "danielrodriguez@futuresystems.com",
+            "phone": "+1 (555) 0818055",
+            "location": {
+                "country": "UK",
+                "address": "863 Oak Street"
+            }
+        },
+        "tags": [
+            "laboris",
+            "proident"
+        ]
+    },
+    {
+        "name": "Sophia Martinez",
+        "isActive": true,
+        "registered": "2010-10-17T10:34:45+0000",
+        "age": 27,
+        "gender": "male",
+        "eyeColor": "hazel",
+        "favoriteFruit": "mango",
+        "company": {
+            "title": "FutureSystems",
+            "email": "sophiamartinez@futuresystems.com",
+            "phone": "+1 (555) 1566797",
+            "location": {
+                "country": "France",
+                "address": "395 Oak Street"
+            }
+        },
+        "tags": [
+            "tempor",
+            "laboris"
+        ]
+    },
+    {
+        "name": "Matthew Anderson",
+        "isActive": true,
+        "registered": "2021-06-06T08:08:53+0000",
+        "age": 26,
+        "gender": "female",
+        "eyeColor": "gray",
+        "favoriteFruit": "kiwi",
+        "company": {
+            "title": "TechSupport",
+            "email": "matthewanderson@digitalworld.com",
+            "phone": "+1 (555) 8238642",
+            "location": {
+                "country": "USA",
+                "address": "903 Pine Lane"
+            }
+        },
+        "tags": [
+            "anim",
+            "anim"
+        ]
+    },
+    {
+        "name": "Isabella Hernandez",
+        "isActive": false,
+        "registered": "2011-03-03T05:37:22+0000",
+        "age": 45,
+        "gender": "female",
+        "eyeColor": "brown",
+        "favoriteFruit": "mousambi",
+        "company": {
+            "title": "SmartSolutions",
+            "email": "isabellahernandez@smartsolutions.com",
+            "phone": "+1 (555) 8303368",
+            "location": {
+                "country": "India",
+                "address": "235 Pine Lane"
+            }
+        },
+        "tags": [
+            "anim",
+            "proident"
+        ]
+    },
+    {
+        "name": "Anthony Thomas",
+        "isActive": false,
+        "registered": "2020-01-23T05:01:05+0000",
+        "age": 31,
+        "gender": "female",
+        "eyeColor": "blue",
+        "favoriteFruit": "kiwi",
+        "company": {
+            "title": "NextGenSolutions",
+            "email": "anthonythomas@ecosolutions.com",
+            "phone": "+1 (555) 9585960",
+            "location": {
+                "country": "USA",
+                "address": "830 Oak Street"
+            }
+        },
+        "tags": [
+            "laboris",
+            "proident"
+        ]
+    },
+    {
+        "name": "Mia Jackson",
+        "isActive": true,
+        "registered": "2017-08-27T22:40:03+0000",
+        "age": 18,
+        "gender": "female",
+        "eyeColor": "hazel",
+        "favoriteFruit": "grapes",
+        "company": {
+            "title": "TechFront",
+            "email": "miajackson@techfront.com",
+            "phone": "+1 (555) 9489957",
+            "location": {
+                "country": "India",
+                "address": "149 Pine Lane"
+            }
+        },
+        "tags": [
+            "nostrud",
+            "excepteur"
+        ]
+    },
+    {
+        "name": "Christopher Moore",
+        "isActive": true,
+        "registered": "2016-08-18T07:36:32+0000",
+        "age": 31,
+        "gender": "male",
+        "eyeColor": "blue",
+        "favoriteFruit": "grapes",
+        "company": {
+            "title": "DigitalWorld",
+            "email": "christophermoore@techsupport.com",
+            "phone": "+1 (555) 5871990",
+            "location": {
+                "country": "India",
+                "address": "377 Elm Road"
+            }
+        },
+        "tags": [
+            "officia",
+            "elit"
+        ]
+    },
+    {
+        "name": "Charlotte Taylor",
+        "isActive": true,
+        "registered": "2015-04-12T22:10:22+0000",
+        "age": 29,
+        "gender": "female",
+        "eyeColor": "gray",
+        "favoriteFruit": "grapes",
+        "company": {
+            "title": "InnovateInc",
+            "email": "charlottetaylor@nextgensolutions.com",
+            "phone": "+1 (555) 1501318",
+            "location": {
+                "country": "USA",
+                "address": "924 Pine Lane"
+            }
+        },
+        "tags": [
+            "anim",
+            "excepteur"
+        ]
+    },
+    {
+        "name": "Joseph Martin",
+        "isActive": true,
+        "registered": "2017-02-14T07:25:32+0000",
+        "age": 60,
+        "gender": "female",
+        "eyeColor": "green",
+        "favoriteFruit": "kiwi",
+        "company": {
+            "title": "SmartSolutions",
+            "email": "josephmartin@globaltech.com",
+            "phone": "+1 (555) 0862284",
+            "location": {
+                "country": "UK",
+                "address": "760 Elm Road"
+            }
+        },
+        "tags": [
+            "culpa",
+            "excepteur"
+        ]
+    },
+    {
+        "name": "Amelia Lee",
+        "isActive": false,
+        "registered": "2015-10-11T04:33:49+0000",
+        "age": 41,
+        "gender": "female",
+        "eyeColor": "brown",
+        "favoriteFruit": "grapes",
+        "company": {
+            "title": "EcoTech",
+            "email": "amelialee@innovateinc.com",
+            "phone": "+1 (555) 0815006",
+            "location": {
+                "country": "USA",
+                "address": "643 Maple Avenue"
+            }
+        },
+        "tags": [
+            "laboris",
+            "anim"
+        ]
+    },
+    {
+        "name": "Andrew White",
+        "isActive": false,
+        "registered": "2019-09-13T01:38:40+0000",
+        "age": 60,
+        "gender": "female",
+        "eyeColor": "brown",
+        "favoriteFruit": "grapes",
+        "company": {
+            "title": "TechSupport",
+            "email": "andrewwhite@ecotech.com",
+            "phone": "+1 (555) 9357834",
+            "location": {
+                "country": "France",
+                "address": "939 Oak Street"
+            }
+        },
+        "tags": [
+            "excepteur",
+            "proident"
+        ]
+    },
+    {
+        "name": "Evelyn Harris",
+        "isActive": true,
+        "registered": "2014-10-06T05:31:29+0000",
+        "age": 18,
+        "gender": "male",
+        "eyeColor": "gray",
+        "favoriteFruit": "mousambi",
+        "company": {
+            "title": "GlobalTech",
+            "email": "evelynharris@globaltech.com",
+            "phone": "+1 (555) 3155132",
+            "location": {
+                "country": "France",
+                "address": "677 Oak Street"
+            }
+        },
+        "tags": [
+            "officia",
+            "proident"
+        ]
+    },
+    {
+        "name": "Joshua Thompson",
+        "isActive": false,
+        "registered": "2011-07-22T17:34:43+0000",
+        "age": 53,
+        "gender": "female",
+        "eyeColor": "green",
+        "favoriteFruit": "mango",
+        "company": {
+            "title": "DigitalWorld",
+            "email": "joshuathompson@digitalworld.com",
+            "phone": "+1 (555) 7709877",
+            "location": {
+                "country": "France",
+                "address": "688 Pine Lane"
+            }
+        },
+        "tags": [
+            "elit",
+            "culpa"
+        ]
+    },
+    {
+        "name": "Harper Clark",
+        "isActive": false,
+        "registered": "2013-11-29T10:32:24+0000",
+        "age": 47,
+        "gender": "male",
+        "eyeColor": "brown",
+        "favoriteFruit": "kiwi",
+        "company": {
+            "title": "NextGenSolutions",
+            "email": "harperclark@techsupport.com",
+            "phone": "+1 (555) 4914843",
+            "location": {
+                "country": "India",
+                "address": "925 Elm Road"
+            }
+        },
+        "tags": [
+            "nostrud",
+            "dolore"
+        ]
+    },
+    {
+        "name": "Lucas Walker",
+        "isActive": true,
+        "registered": "2014-03-03T20:07:06+0000",
+        "age": 56,
+        "gender": "male",
+        "eyeColor": "hazel",
+        "favoriteFruit": "mango",
+        "company": {
+            "title": "EcoSolutions",
+            "email": "lucaswalker@ecotech.com",
+            "phone": "+1 (555) 6862057",
+            "location": {
+                "country": "France",
+                "address": "507 Elm Road"
+            }
+        },
+        "tags": [
+            "nostrud",
+            "officia"
+        ]
+    },
+    {
+        "name": "Lily Young",
+        "isActive": false,
+        "registered": "2014-11-04T05:14:46+0000",
+        "age": 20,
+        "gender": "male",
+        "eyeColor": "gray",
+        "favoriteFruit": "mousambi",
+        "company": {
+            "title": "NextGenSolutions",
+            "email": "lilyyoung@nextgensolutions.com",
+            "phone": "+1 (555) 0741752",
+            "location": {
+                "country": "India",
+                "address": "983 Elm Road"
+            }
+        },
+        "tags": [
+            "proident",
+            "laboris"
+        ]
+    },
+    {
+        "name": "William Allen",
+        "isActive": true,
+        "registered": "2010-08-10T01:14:03+0000",
+        "age": 36,
+        "gender": "female",
+        "eyeColor": "green",
+        "favoriteFruit": "apple",
+        "company": {
+            "title": "FutureSystems",
+            "email": "williamallen@ecosolutions.com",
+            "phone": "+1 (555) 4470694",
+            "location": {
+                "country": "India",
+                "address": "688 Elm Road"
+            }
+        },
+        "tags": [
+            "culpa",
+            "anim"
+        ]
+    }
+]
