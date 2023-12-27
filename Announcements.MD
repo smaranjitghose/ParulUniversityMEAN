@@ -78,4 +78,4 @@
 - [Academic Calender](https://github.com/smaranjitghose/ParulUniversityMEAN/blob/main/Academic_Calender.pdf)
 - MongoDB Installation Guide
   - [MacOS - MongoDB](https://www.mongodb.com/docs/v3.0/tutorial/install-mongodb-on-os-x/)
--
+- [Format of Practicals](https://docs.google.com/document/d/1MJGDVIURxRWI1TAslcm4LGAI3ZaJPczwJR8BZOA6fQ0/edit?usp=sharing)
