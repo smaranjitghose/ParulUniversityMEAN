@@ -17,6 +17,9 @@
 |1| Intro to MEAN Stack | | [Intro PPT](https://docs.google.com/presentation/d/1MwSbCpd9KTXkzjMlFc7UC_HDAETTmR_JGcJ7EaMps5c/edit?usp=sharing) | | |
 |2|MongoDB | CRUD Operations, Indexes, Aggregations| [MongoDB PPT](https://docs.google.com/presentation/d/12XiAi6RdUKSFSPMT48XqZOEfVs2ODAS-0owVdHcVhSw/edit?usp=sharing) [MongoDB Cheatsheet](https://www.mongodb.com/developer/products/mongodb/cheat-sheet/) | [MongoDB Practice 1](./practice_problems/mongodb_practice/MongoDB_1.MD), [MongoDB Practice 2](./practice_problems/mongodb_practice/MongoDB_2.MD), [MongoDB Practice 3](./practice_problems/mongodb_practice/MongoDB_3.MD) | |
 |3| Fundamentals of JavaScript | | | |
+|4| NodeJS + ExpressJS | | | |
+|5| Angular JS | | | |
+|6| Deployment and DevSecOPs | | | |
 
 ## **📢Course Announcements** 
 
