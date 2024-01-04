@@ -23,9 +23,6 @@
 
 ## **📢Course Announcements** 
 
-
-[Final Project List](https://docs.google.com/spreadsheets/d/1Mu_a9IOCkFuEzzj3K9FV3nFEbY4G1KXjAdl_BhfJYPk/edit?usp=sharing)
-
 [Check here for the latest announcements](./Announcements.MD)
 
 ## **👨🏻‍💻Tools and Services Required**
