@@ -14,7 +14,7 @@
 |9|Music Streaming Application||
 |10|Property Rental Application||
 |11|Note Making Application||
-|12|Project Management Dashboard||
+|12|Task Management Dashboard||
 |13|Microblogging Platform||
 |14|Learning Management System||
 |15|Bio Tool||
