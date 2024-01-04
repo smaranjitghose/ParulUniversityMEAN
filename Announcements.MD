@@ -9,7 +9,10 @@
 
 📅 18/12/2023 - 22/12/2023
 
-- Discussion about final project and initimation of group formation
+
+
+- Discussion about [final project topics](https://github.com/smaranjitghose/ParulUniversityMEAN/blob/main/Final_Projects.MD) and initimation of group formation
+
 
 #### **🎯Topics Covered**:
 - Aggregation Pipelines (MongoDB)
