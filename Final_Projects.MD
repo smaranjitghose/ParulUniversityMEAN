@@ -23,7 +23,7 @@
 
 |Group # | Project Name | Members |
 |------|-------|--------|
-|14 | Learning Management System | [Smaranjit Ghose](https://github.com/smaranjitghose) | 
+|14 | Learning Management System | [vikash0002](https://github.com/vikash00022) | 
 
 |4|Fashion E-Commerce||[Nakul Lagad](https://github.com/Lagadnakul), [Aayush Vaghela](https://github.com/AAYUSH412)|
 
