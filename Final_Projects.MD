@@ -24,7 +24,7 @@
 |Group # | Project Name | Members |
 |------|-------|--------|
 |14 | Learning Management System | [Smaranjit Ghose](https://github.com/smaranjitghose) | 
-
+|8  | Restaurant Food Ordering Application | [Aishwar Kulkarni](https://github.com/Aishwar1320), [Sachin Patkari]((https://github.com/Sachinpatkari) |
 
 
 
