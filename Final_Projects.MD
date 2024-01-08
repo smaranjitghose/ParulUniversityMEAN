@@ -18,3 +18,13 @@
 |13|Microblogging Platform||
 |14|Learning Management System||
 |15|Bio Tool||
+
+## Project Allotement - 6A16
+
+|Group # | Project Name | Members |
+|------|-------|--------|
+|14 | Learning Management System | [Smaranjit Ghose](https://github.com/smaranjitghose) | 
+
+
+
+
