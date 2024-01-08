@@ -25,6 +25,7 @@
 |------|-------|--------|
 |14 | Learning Management System | [Smaranjit Ghose](https://github.com/smaranjitghose) | 
 
+|4|Fashion E-Commerce||[Nakul Lagad](https://github.com/Lagadnakul), [Aayush Vaghela](https://github.com/AAYUSH412)|
 
 
 
