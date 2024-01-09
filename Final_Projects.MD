@@ -27,3 +27,15 @@
 |4|Fashion E-Commerce||[Nakul Lagad](https://github.com/Lagadnakul), [Aayush Vaghela](https://github.com/AAYUSH412)|
 |13 | Microblogging Platform | [Aditya Raj](https://github.com/theadityaway),[Vikash Kumar](https://github.com/Vikash00022), [Rishav](https://github.com/meliodas-sama10)  |
 |1|Crowdfunding Platform|[shristi](https://github.com/Shrishtikant),[Lokesh sharma](https://github.com/lokeshsharma5659),[Yagnanshu](),[Ritik rajendra patil](https://github.com/RitikRajendraPatil)|
+
+## Project Allotement - 6A5
+
+
+|Group # | Project Name | Members |
+|------|-------|--------|
+|8  | Restaurant Food Ordering Application | [Member 1](URL), [Member 2](URL), [Member 3](URL), [Member 4](URL), [Member 5](URL) |
+
+
+
+
+
