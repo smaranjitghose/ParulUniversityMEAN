@@ -29,4 +29,4 @@
 |1|Crowdfunding Platform|[shristi](https://github.com/Shrishtikant),[Lokesh sharma](https://github.com/lokeshsharma5659),[Yagnanshu](),[Ritik rajendra patil](https://github.com/RitikRajendraPatil)|
 
 
-|1|Crowdfunding Application|[Smaranjit](github.com/smaranjitghose)|
+|11|Note Making Application|[Jenish](github.com/jenishkoladiya),[Vishw](github.com/fvishw),[Hetvi](github.com/hetvipatel),[Aditya](github.com/adityajoshi),[Govind](github.com/govind)|
