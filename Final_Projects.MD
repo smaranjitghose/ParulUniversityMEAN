@@ -41,7 +41,7 @@
 |5|Job Search Platform||
 |6|Used Goods Marketplace||
 |7|Dating Application||
-|8|Restaurant Food Ordering Application |[Vishal Umavane](https://github.com/vsumavane), Tushar Thakur, Vaibhav Ram, Yadnesh Kumbhar, Yash Tambe|
+|8|Restaurant Food Ordering Application |[Vishal Umavane](https://github.com/vsumavane), [Tushar Thakur](https://github.com/Tushar290), Vaibhav Ram, [Yadnesh Kumbhar](https://github.com/), [Yash Tambe](https://github.com/)|
 |9|Music Streaming Application||
 |10|Property Rental Application||
 |11|Note Making Application||
