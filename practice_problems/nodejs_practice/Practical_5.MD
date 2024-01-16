@@ -1,7 +1,9 @@
 <h1 align = "center">Practical 5</h1>
 
-- Create a file `index.js` and perform the following operations using `fs` module
-- Each operation should be perfomed synchronously as well as asynchronously
+- Create a file `index.js`
+- Perform the following operations using `fs` module of NodeJS
+
+**Note**: Each operation should be perfomed synchronously as well as asynchronously
 
 1. Create a folder 'space_project'
 ```
