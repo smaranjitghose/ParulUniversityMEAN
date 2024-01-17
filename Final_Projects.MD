@@ -37,7 +37,7 @@
 |1|Crowdfunding Platform||
 |2|Car Showcase Application||
 |3|Grocery Delivery Service||
-|4|Fashion E-Commerce||
+|4|Fashion E-Commerce|| Yogita Verma("https://github.com/yv2002")
 |5|Job Search Platform||
 |6|Used Goods Marketplace||
 |7|Dating Application||
