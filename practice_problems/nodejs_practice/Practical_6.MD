@@ -1,4 +1,4 @@
-<h1 align = "center">Practical 5</h1>
+<h1 align = "center">Practical 6</h1>
 
 Create a custom Node.js module named GeometryCalculator. The module should include functions for the following operations:
 
