@@ -1,5 +1,26 @@
 <h1 align="center">Announcements</h1>
 
+## Week 7:
+
+- [Practical 11](https://docs.google.com/document/d/1ka4zMeiBsQZCKCCj93KaA-se6NnH7coMbCZd5tgv5kg/edit?usp=sharing)
+
+
+**🎯Topics Covered**:
+- Introduction to NodeJS
+- Features of NodeJS
+- Application of NodeJS
+- Installation of NodeJS
+- NodeJS REPL
+- Core Modules
+- fs module
+- os module
+- path module
+- Math Object
+
+## Week 6:
+
+- Practical 4 released
+
 
 ## Week 4:
 
@@ -82,3 +103,4 @@
 - MongoDB Installation Guide
   - [MacOS - MongoDB](https://www.mongodb.com/docs/v3.0/tutorial/install-mongodb-on-os-x/)
 - [Format of Practicals](https://docs.google.com/document/d/1MJGDVIURxRWI1TAslcm4LGAI3ZaJPczwJR8BZOA6fQ0/edit?usp=sharing)
+- 
