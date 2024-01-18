@@ -2,7 +2,8 @@
 
 ## Week 7:
 
-- [Practical 5](https://docs.google.com/document/d/1Al51eO4mgCcr5svaIh1oiPZWzIGSjf7yY3LBjX122r0/edit?usp=sharinghttps://docs.google.com/document/d/1Al51eO4mgCcr5svaIh1oiPZWzIGSjf7yY3LBjX122r0/edit?usp=sharing) released
+- [Practical 11](https://docs.google.com/document/d/1ka4zMeiBsQZCKCCj93KaA-se6NnH7coMbCZd5tgv5kg/edit?usp=sharing)
+
 
 **🎯Topics Covered**:
 - Introduction to NodeJS
