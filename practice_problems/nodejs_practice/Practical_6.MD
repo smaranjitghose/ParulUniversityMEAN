@@ -1,6 +1,6 @@
 <h1 align = "center">Practical 6</h1>
 
-Create a custom Node.js module named GeometryCalculator. The module should include functions for the following operations:
+Create a custom Node.js module named `GeometryCalculator`. The module should include functions for the following operations:
 
 1. Volume of Cube 
 2. Surface Area of Cube
