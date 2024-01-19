@@ -35,7 +35,7 @@
 |Group # | Project Name | Members |
 |------|-------|--------|
 |1|Crowdfunding Platform||
-|2|Car Showcase Application|[Rajveer singh sadhara](https://github.com/Rajveer0602) [Rohit Mistry]() [Sarvagay Sanmotra]() [Shubhma Thakur]()|
+|2|Car Showcase Application|[Rajveer singh sadhara](https://github.com/Rajveer0602), [Rohit Mistry](), [Sarvagay Sanmotra](), [Shubhma Thakur]()|
 |3|Grocery Delivery Service||
 |4|Fashion E-Commerce||
 |5|Job Search Platform||
