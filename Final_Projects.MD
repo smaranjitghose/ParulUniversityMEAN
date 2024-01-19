@@ -41,7 +41,7 @@
 |5|Job Search Platform|[Suraj Kumar Singh](https://github.com/Surajsingh1611),[Raj Singh](https://github.com/Rajsinghh2907),[Shubham](https://github.com/backpackerdeveloper),[Ritik](),[Rahul](https://github.com/rahul4work)|
 |6|Used Goods Marketplace||
 |7|Dating Application||
-|8|Restaurant Food Ordering Application ||
+|8|Restaurant Food Ordering Application |[Vishal Umavane](https://github.com/vsumavane), [Tushar Thakur](https://github.com/Tushar290), [Vaibhav Ram](https://github.com/MRXvariant), [Yadnesh Kumbhar](https://github.com/Yadnesh1107), [Yash Tambe](https://github.com/YashT096)|
 |9|Music Streaming Application||
 |10|Property Rental Application||
 |11|Note Making Application||
