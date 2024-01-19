@@ -37,9 +37,7 @@
 |12|Task Management Dashboard||
 |13 | Microblogging Platform | [Aditya Raj](https://github.com/theadityaway),[Vikash Kumar](https://github.com/Vikash00022), [Rishav](https://github.com/meliodas-sama10)  |
 |14|Learning Management System||
-|15|Bio Tool||
-
-
+|15|Bio Tool| [Vishal] (https://github.com/Vishal1416),[sanket](https://github.com/ooye-sanket) |
 
 ## Project Allotement - 6A13
 
