@@ -8,7 +8,7 @@
 |1|Crowdfunding Platform|[shristi](https://github.com/Shrishtikant),[Lokesh sharma](https://github.com/lokeshsharma5659),[Yagnanshu](),[Ritik rajendra patil](https://github.com/RitikRajendraPatil)||
 |2|Car Showcase Application|| |
 |3|Grocery Delivery Service|||
-|4|Fashion E-Commerce||[Nakul Lagad](https://github.com/Lagadnakul), [Aayush Vaghela](https://github.com/AAYUSH412)||
+|4|Fashion E-Commerce|[Nakul Lagad](https://github.com/Lagadnakul), [Aayush Vaghela](https://github.com/AAYUSH412)||
 |5|Job Search Platform|||
 |6|Used Goods Marketplace|||
 |7|Dating Application|||
