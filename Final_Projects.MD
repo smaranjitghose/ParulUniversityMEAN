@@ -1,25 +1,7 @@
-<h1 align = "center">Final Projects</h1>
+<h1 align = "center">Capstone Project Allocation</h1>
 
 
-|Sl No | Topic | Project Overview |
-|------|-------|------------------|
-|1|Crowdfunding Platform||
-|2|Car Showcase Application||
-|3|Grocery Delivery Service||
-|4|Fashion E-Commerce||
-|5|Job Search Platform||
-|6|Used Goods Marketplace||
-|7|Dating Application||
-|8|Restaurant Food Ordering Application ||
-|9|Music Streaming Application||
-|10|Property Rental Application||
-|11|Note Making Application||
-|12|Task Management Dashboard||
-|13|Microblogging Platform||
-|14|Learning Management System||
-|15|Bio Tool||
-
-## Project Allotement - 6A16
+## Division 6A16
 
 |Group # | Project Name | Members |
 |------|-------|--------|
@@ -39,7 +21,7 @@
 |14|Learning Management System||
 |15|Bio Tool| [Vishal] (https://github.com/Vishal1416),[sanket](https://github.com/ooye-sanket) |
 
-## Project Allotement - 6A13
+## Division 6A13
 
 |Group # | Project Name | Members |
 |------|-------|--------|
@@ -60,7 +42,7 @@
 |15|Bio Tool||
 
 
-## Project Allotement - 6A14
+## Division 6A14
 
 |Group # | Project Name | Members |
 |------|-------|--------|
@@ -80,4 +62,25 @@
 |14|Learning Management System||
 |15|Bio Tool||
 
-..
+
+## Division INT 10
+
+|Group # | Project Name | Members |
+|------|-------|--------|
+|1|Crowdfunding Platform||
+|2|Car Showcase Application||
+|3|Grocery Delivery Service||
+|4|Fashion E-Commerce||
+|5|Job Search Platform||
+|6|Used Goods Marketplace||
+|7|Dating Application||
+|8|Restaurant Food Ordering Application ||
+|9|Music Streaming Application||
+|10|Property Rental Application||
+|11|Note Making Application||
+|12|Task Management Dashboard||
+|13|Microblogging Platform||
+|14|Learning Management System||
+|15|Bio Tool||
+
+
