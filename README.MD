@@ -20,10 +20,7 @@
 |4| Angular JS | | | |
 |5| DevSecOps  | Git - What is Version Control, Commit Log, Branches, Forks, Pull Request | |[Git Practice 1](practice_problems/devsecops/Git_1.MD) |
 
-## Practice Problem
 
-- [Dataset](https://drive.google.com/file/d/1YT9nbqAy76uTCJjSWAbu089ySYvoK2Xx/view?usp=sharing)
-- [Questions](https://drive.google.com/file/d/1hxvLC-oGjYDEH044IxcRT0zcQTs0y-th/view?usp=sharing)
 
 ## **📢Course Announcements** 
 
