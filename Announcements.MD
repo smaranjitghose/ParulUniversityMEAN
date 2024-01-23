@@ -9,7 +9,7 @@
 - Question Paper Format Discussed
 - [NodeJS Practice Problem 2](https://docs.google.com/document/d/1W_JJZ2OwLxM42h03Gbamg-KUdk_tpv7rld6ABvHuLjU/edit?usp=sharing) released
 
-#### 🧨 Events and Holidays (owing to cancellation of lectures)
+### 🧨 Events and Holidays (owing to cancellation of lectures)
 - 22-01-2024: Shri Ram Mandir Pran Pratistha Day
 - 26-01-2024: Republic Day
 
