@@ -10,7 +10,9 @@
 
 2. Fork the repository
 
+```
 <Attach relevant screenshot here>
+```
 
 
 3. Clone the forked copy of the repository using CLI
