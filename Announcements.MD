@@ -2,21 +2,29 @@
 
 ## Week 8:
 
+📅 22/01/2024 - 26/01/2024
+
 - Mid Term Syllabus Dicussed
   - Unit 1, Unit 2, Unit 3 (Upto NodeJS Modules)
 - Question Paper Format Discussed
-
 - [NodeJS Practice Problem 2](https://docs.google.com/document/d/1W_JJZ2OwLxM42h03Gbamg-KUdk_tpv7rld6ABvHuLjU/edit?usp=sharing) released
+
+####🧨 Events and Holidays (owing to cancellation of lectures)
+- 22-01-2024: Shri Ram Mandir Pran Pratistha Day
+- 26-01-2024: Republic Day
 
 ----
 
 ## Week 7:
 
+📅 15/01/2024 - 19/01/2024
 
 - [NodeJS Practice Problem 1](https://docs.google.com/document/d/1Al51eO4mgCcr5svaIh1oiPZWzIGSjf7yY3LBjX122r0/edit?usp=sharing) released
 
 
 ## Week 6:
+
+📅 08/01/2024 - 12/01/2024
 
 - [Git Practice Problem 1](https://docs.google.com/document/d/1ka4zMeiBsQZCKCCj93KaA-se6NnH7coMbCZd5tgv5kg/edit?usp=sharing) released
 - Capstone Project Allocated for all divisions
@@ -26,7 +34,7 @@
 
 ## Week 5:
 
-
+📅 01/01/2024 - 12/05/2024
 
 ----
 
