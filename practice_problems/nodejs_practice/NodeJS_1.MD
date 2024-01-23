@@ -1,4 +1,4 @@
-<h1 align = "center">Practical 5</h1>
+<h1 align = "center">Practical 8</h1>
 
 - Create a file `index.js`
 - Perform the following operations using `fs` module of NodeJS
