@@ -38,7 +38,7 @@
 
 ```
 
-7. Switch to the ```feat 1``` branch
+7. Switch to the `feat 1` branch
 
 ```
 
