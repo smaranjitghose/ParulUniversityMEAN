@@ -3,7 +3,7 @@
 
 1. Visit the GitHub repository [https://github.com/smaranjitghose/ParulUniversityMEAN](https://github.com/smaranjitghose/ParulUniversityMEAN) and star it
 
-<Attach relevant screenshot here>
+```<Attach relevant screenshot here>```
 
 
 2. Fork the repository
@@ -75,7 +75,7 @@ Ensure the project topic and divison are accurate
 
 13. Create a pull request from the `feat1` branch of your forked repository to the `main` branch of the above mentioned repository. Ensure the title of the pull request is in the format `6AXX Group XX`. In the description, mention `Practical 6`
 
-<Attach relevant screenshot here>
+```<Attach relevant screenshot here>```
 
 
 14. Once the pull request is merged, switch to the `main` branch inside the local repository of your project. Now, delete the `feat1` branch
