@@ -40,5 +40,3 @@
 - GitHub Account
 - MongoDB Atlas Account
 
-
-|1|pROJECT-1|[Bishal](https://github.com/bishal292)|,|[ANURAG](https://github.com/AnuRaG388)|,|[KANHAIYA](https://github.com/sunil004200)|
