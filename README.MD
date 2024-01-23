@@ -40,5 +40,3 @@
 - GitHub Account
 - MongoDB Atlas Account
 
-
-
