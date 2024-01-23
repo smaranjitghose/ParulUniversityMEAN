@@ -12,12 +12,13 @@
 
 ## **📚Course Modules**
 
-| Sl No | Unit | Topics | Reference Material | Assignment(s) | Practice Problem(s) |
-| -----|-------|------|--------------------|--------------|---------|
-|1| Intro to MEAN Stack | | [Intro PPT](https://docs.google.com/presentation/d/1MwSbCpd9KTXkzjMlFc7UC_HDAETTmR_JGcJ7EaMps5c/edit?usp=sharing) | | |
-|2|MongoDB | Recap of Databases, SQL vs NoSQL, Types of NoSQL Databases, Introduction to MongoDB, Features of MongoDB, Applications of MongoDB, MongoDB Installation, Basic Terminologies: documents, collections, BSON vs JSON, CRUD Operations, Indexes, Aggregations| [MongoDB PPT](https://docs.google.com/presentation/d/12XiAi6RdUKSFSPMT48XqZOEfVs2ODAS-0owVdHcVhSw/edit?usp=sharing) [MongoDB Cheatsheet](https://www.mongodb.com/developer/products/mongodb/cheat-sheet/) | [MongoDB Practice 1](./practice_problems/mongodb_practice/MongoDB_1.MD), [MongoDB Practice 2](./practice_problems/mongodb_practice/MongoDB_2.MD), [MongoDB Practice 3](./practice_problems/mongodb_practice/MongoDB_3.MD) | |
+| Sl No | Unit | Topics | Reference Material | Assignment(s) | 
+| -----|-------|------|--------------------|--------------|
+|1| Intro to MEAN Stack | | [Intro PPT](https://docs.google.com/presentation/d/1MwSbCpd9KTXkzjMlFc7UC_HDAETTmR_JGcJ7EaMps5c/edit?usp=sharing) | | 
+|2|MongoDB | Recap of Databases, SQL vs NoSQL, Types of NoSQL Databases, Introduction to MongoDB, Features of MongoDB, Applications of MongoDB, MongoDB Installation, Basic Terminologies: documents, collections, BSON vs JSON, CRUD Operations, Indexes, Aggregations| [MongoDB PPT](https://docs.google.com/presentation/d/12XiAi6RdUKSFSPMT48XqZOEfVs2ODAS-0owVdHcVhSw/edit?usp=sharing) [MongoDB Cheatsheet](https://www.mongodb.com/developer/products/mongodb/cheat-sheet/) | [MongoDB Practice 1](./practice_problems/mongodb_practice/MongoDB_1.MD), [MongoDB Practice 2](./practice_problems/mongodb_practice/MongoDB_2.MD), [MongoDB Practice 3](./practice_problems/mongodb_practice/MongoDB_3.MD) | 
 |3| NodeJS + ExpressJS |Introduction to NodeJS, Features of NodeJS, Applications of NodeJS, NodeJS REPL, Core Modules, fs module, Synchronous vs Asynchronous, os module, path module | [NodeJS Fundamentals PPT](https://docs.google.com/presentation/d/1ePsTkh4UKb36vrvyPAdDuR7nrwA5sgllMX58D2QQIzk/edit?usp=sharing) | [NodeJS Practice 1](practice_problems/nodejs_practice/NodeJS_1.MD),[NodeJS Practice 2](practice_problems/nodejs_practice/NodeJS_2.MD) |
 |4| Angular JS | | | |
+|5| DevSecOps  | | |[Git Practice 1](practice_problems/devsecops/Git_1.MD) |
 
 ## Practice Problem
 
