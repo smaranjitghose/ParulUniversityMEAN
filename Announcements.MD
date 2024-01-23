@@ -26,6 +26,8 @@
 
 📅 08/01/2024 - 12/01/2024
 
+- Weekly Test Syllabus Discussed
+  - Unit 1, Unit 2 (Complete MongoDB)
 - [Git Practice Problem 1](https://docs.google.com/document/d/1ka4zMeiBsQZCKCCj93KaA-se6NnH7coMbCZd5tgv5kg/edit?usp=sharing) released
 - Capstone Project Allocated for all divisions
 
