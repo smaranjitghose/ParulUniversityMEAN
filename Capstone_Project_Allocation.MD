@@ -12,7 +12,6 @@
 |5|Job Search Platform|||
 |6|Used Goods Marketplace|||
 |7|Dating Application|||
-|8| Restaurant Food Ordering Application | [Aishwar Kulkarni](https://github.com/Aishwar1320), [Sachin Patkari](https://github.com/Sachinpatkari), [Sourav Singh](https://github.com/Sourav293) ||
 |8|Restaurant Food Ordering Application |[Solanki Dharmistha](https://github.com/solankidharmistha),[Raulji Jaydeepsinh](https://github.com/rauljijaydeep),[Chauhan Kirtan](https://github.com/kirtan1812),[Pokiya Vasu](https://github.com/vasuponkiya)|
 |9|Music Streaming Application|||
 |10|Property Rental Application|||
