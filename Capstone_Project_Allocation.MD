@@ -56,7 +56,7 @@
 |8|Restaurant Food Ordering Application |[Bishal Singh](https://github.com/bishal292),[Kanhaiya lal agrahari](https://github.com/sunil004200),[Anurag Gupta](https://github.com/AnuRaG388),[Aryan Hasmi](https://github.com/Aryanhasmi)||
 |9|Music Streaming Application|||
 |10|Property Rental Application|||
-|11|Note Making Application|||
+|11|Note Making Application|[Jenish Koladiya](https://github.com/jenishkoladiya),[Hetvi Patel](https://github.com/HetviPatel2704),[Aditya Joshi](https://github.com/adityajoshij),[Vishw Faldu](https://github.com/fvisw),[Govind](https://github.com/barbade22)||
 |12|Task Management Dashboard|||
 |13|Microblogging Platform|||
 |14|Learning Management System |[Christian Erik](https://github.com/Erikch010404),[Aniket Kumar](https://github.com/Aniket04be),[Himanshi Jaiswal](https://github.com/himanshi3354),[Khush Mevada](https://github.com/khushmevada1183)||
