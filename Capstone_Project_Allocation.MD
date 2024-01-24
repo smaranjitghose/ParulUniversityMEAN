@@ -59,7 +59,7 @@
 |11|Note Making Application|||
 |12|Task Management Dashboard|||
 |13|Microblogging Platform|||
-|14|Learning Management System|||
+|14|Learning Management System |[Christian Erik](https://github.com/Erikch010404),[Aniket Kumar](https://github.com/Aniket04be),[Himanshi Jaiswal](https://github.com/himanshi3354),[Khush Mevada](https://github.com/khushmevada1183)||
 |15|Bio Tool|||
 
 
