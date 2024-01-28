@@ -38,7 +38,7 @@
 |11|Note Making Application|||
 |12|Task Management Dashboard|||
 |13|Microblogging Platform|||
-|14|Learning Management System|||
+|14|Learning Management System| [Ranchu Mahato](https://github.com/ranchu01), [Shubhangi Sharma](https://github.com/Shaili21), [Veronica Ayele Gebreyes](https://github.com/Vee-Chapie), [Tithi Parekh](https://github.com/Tithip26)||
 |15|Bio Tool|||
 
 
