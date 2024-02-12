@@ -14,6 +14,10 @@ Paste screenshot here
 
 - Install the packages `chalk` and `validator` from the npm registry
 
+```
+
+```
+
 - Now, create a `index.js` file and write the code to solve each of the following questions:
 
 1. Email Validation with Color Feedback:
