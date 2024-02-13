@@ -48,7 +48,7 @@
 |------|-------|--------|-------|
 |1|Crowdfunding Platform|| |
 |2|Car Showcase Application| ||
-|3|Grocery Delivery Service|| |
+|3|Grocery Delivery Service||[Swaraj Kumar](https://github.com/swaraj29),[sahil](https://github.com/sahil04be),[Rishikesh](https://github.com/Rishikesh33),[Harsh](https://github.com/Harsh183) |
 |4|Fashion E-Commerce|| |
 |5|Job Search Platform|| |
 |6|Used Goods Marketplace|||
