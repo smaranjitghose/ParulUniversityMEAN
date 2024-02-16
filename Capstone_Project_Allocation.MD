@@ -65,7 +65,7 @@
 
 ## Division INT 10
 
-|Group # | Project Name | Members | Project Repository |
+|Group # | Project Name. | Members | Project Repository |
 |------|-------|--------|-------|
 |1|Crowdfunding Platform|| |
 |2|Car Showcase Application| ||
