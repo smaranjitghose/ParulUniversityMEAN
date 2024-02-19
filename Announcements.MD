@@ -1,5 +1,39 @@
 <h1 align="center">Announcements</h1>
 
+## Week 12:
+
+📅 05/02/2024 - 09/02/2024
+
+
+## Week 11:
+
+📅 12/02/2024 - 16/02/2024
+
+
+- [NodeJS Practical 4](https://docs.google.com/document/d/1V6G2xiAg7Z_6cJh4mZutEbKrYW0tM6rnWWa1TPNQDOg/edit?usp=sharing) released
+- url module (NODEJS) + Query Parameter Parsing
+- Request log in REST API using http and fs module
+- Introduction to ExpressJS
+
+## Week 10:
+
+📅 05/02/2024 - 09/02/2024
+
+- [NodeJS Practical 3](https://docs.google.com/document/d/1LbFEb4-YwvJObqsN6_ypkxCn_yF613HzLkvSaq6_h2U/edit?usp=sharing) released
+- Mid Term Paper Discussion
+- [Mid Term Key Released](https://docs.google.com/document/d/10gHmRj9GiLGpD5L0B_4p5hliIdGwUKjLi4mAMY8Oajw/edit?usp=sharing)
+- RestAPI Fundamentals
+- HTTP Methods
+- Componnents of URL
+- http module (NODEJS) + REST API 
+- Routing in REST API using http module
+
+
+
+## Week 9:
+
+- Exams
+
 ## Week 8:
 
 📅 22/01/2024 - 26/01/2024
