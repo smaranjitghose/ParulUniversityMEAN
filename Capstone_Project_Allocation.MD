@@ -49,7 +49,7 @@
 |1|Crowdfunding Platform|| |
 |2|Car Showcase Application| ||
 |3|Grocery Delivery Service|| |
-|4|Fashion E-Commerce|| |
+|4|Fashion E-Commerce|[Priyam Joshi](https://github.com/priyam5099),[Pranav Rathi](https://github.com/pranavrathi1811),[Neha Arsgonda](https://github.com/210306105069),[Prashant Mali](https://github.com/prashantmali26)|
 |5|Job Search Platform|| |
 |6|Used Goods Marketplace|||
 |7|Dating Application|||
@@ -65,7 +65,7 @@
 
 ## Division INT 10
 
-|Group # | Project Name | Members | Project Repository |
+|Group # | Project Name. | Members | Project Repository |
 |------|-------|--------|-------|
 |1|Crowdfunding Platform|| |
 |2|Car Showcase Application| ||
