@@ -31,6 +31,7 @@
 - Windows Terminal
 - VSCode
 - Git
+- Postman
 - MongoDB Community Server
 - MongoDB Shell
 - NodeJS
@@ -39,4 +40,3 @@
 
 - GitHub Account
 - MongoDB Atlas Account
-
