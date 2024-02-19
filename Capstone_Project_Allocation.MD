@@ -54,7 +54,7 @@
 |6|Used Goods Marketplace|||
 |7|Dating Application|||
 |8|Restaurant Food Ordering Application |[Bishal Singh](https://github.com/bishal292),[Kanhaiya lal agrahari](https://github.com/sunil004200),[Anurag Gupta](https://github.com/AnuRaG388),[Aryan Hasmi](https://github.com/Aryanhasmi)||
-|9|Music Streaming Application|||
+|9|Music Streaming Application|[Indra Jit Singh](https://github.com/IndraJ1t),[jigyash yadav](),[Smruti Ranjan](),[Abhinav Raj]()||
 |10|Property Rental Application|||
 |11|Note Making Application|[Jenish Koladiya](https://github.com/jenishkoladiya),[Hetvi Patel](https://github.com/HetviPatel2704),[Aditya Joshi](https://github.com/adityajoshij),[Vishw Faldu](https://github.com/fvisw),[Govind](https://github.com/barbade22)||
 |12|Task Management Dashboard|||
