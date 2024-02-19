@@ -5,7 +5,7 @@
 
 |Group # | Project Name | Members | Project Repository |
 |------|-------|--------|---|
-|1|Crowdfunding Platform||
+|1|Crowdfunding Platform|[shristi](https://github.com/Shrishtikant),[Lokesh sharma](https://github.com/lokeshsharma5659),[Yagnanshu](),[Ritik rajendra patil](https://github.com/RitikRajendraPatil)||
 |2|Car Showcase Application|| |
 |3|Grocery Delivery Service|||
 |4|Fashion E-Commerce|[Nakul Lagad](https://github.com/Lagadnakul), [Aayush Vaghela](https://github.com/AAYUSH412)||
