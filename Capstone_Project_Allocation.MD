@@ -5,7 +5,7 @@
 
 |Group # | Project Name | Members | Project Repository |
 |------|-------|--------|---|
-|1|Crowdfunding Platform|[shristi](https://github.com/Shrishtikant),[Lokesh sharma](https://github.com/lokeshsharma5659),[Yagnanshu](),[Ritik rajendra patil](https://github.com/RitikRajendraPatil)||
+|1|Crowdfunding Platform||
 |2|Car Showcase Application|| |
 |3|Grocery Delivery Service|||
 |4|Fashion E-Commerce|[Nakul Lagad](https://github.com/Lagadnakul), [Aayush Vaghela](https://github.com/AAYUSH412)||
@@ -13,7 +13,7 @@
 |6|Used Goods Marketplace|||
 |7|Dating Application|||
 |8|Restaurant Food Ordering Application |[Solanki Dharmistha](https://github.com/solankidharmistha),[Raulji Jaydeepsinh](https://github.com/rauljijaydeep),[Chauhan Kirtan](https://github.com/kirtan1812),[Pokiya Vasu](https://github.com/vasuponkiya)|
-|9|Music Streaming Application|||
+|9|Music Streaming Application|[Parthil Popat](https://github.com/Parthilpopat),[Pratham Chauhan](https://github.com/pratham761/pratham761),[https://github.com/vinaydeveloper](Vinay),[Sakib Khan](https://github.com/AISAKIBKHAN),[rewatisolanki](https://github.com/rewatisolanki)||
 |10|Property Rental Application|||
 |11|Note Making Application|||
 |12|Task Management Dashboard|||
