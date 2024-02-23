@@ -26,6 +26,11 @@
 
 [Check here for the latest announcements](./Announcements.MD)
 
+## **📦Course Logistics**:
+
+- [Practical Marks Record](https://docs.google.com/spreadsheets/d/1qNVRY5TM-05xQEZCBjSAxQXJl9pHaqPl4Z0k1-pwqUE/edit?usp=sharing)
+- [Capstone Project Allotment](https://docs.google.com/spreadsheets/d/1bWM7mdmH7Zrj9YEENYHaUR5Sj6iqLeUcrEh0N-KszHs/edit?usp=sharing)
+
 ## **👨🏻‍💻Tools and Services Required**
 
 - Windows Terminal
