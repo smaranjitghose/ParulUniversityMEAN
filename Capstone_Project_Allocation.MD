@@ -47,7 +47,7 @@
 |Group # | Project Name | Members | Project Repository |
 |------|-------|--------|-------|
 |1|Crowdfunding Platform|| |
-|2|Car Showcase Application| ||
+|2|Car Showcase Application|[Shruti Mistry](https://github.com/Shruti0011),[Param Pawar](https://github.com/eye97),[Aashish Jadhav](https://github.com/1AshishJadhav),[Akhil Hadiya](https://github.com/Akhilhadiya),[Luv Gohil](https://github.com/LuvGohel) ||
 |3|Grocery Delivery Service|| |
 |4|Fashion E-Commerce|| |
 |5|Job Search Platform|| |
