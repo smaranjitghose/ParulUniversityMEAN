@@ -13,7 +13,7 @@
 |6|Used Goods Marketplace|||
 |7|Dating Application|||
 |8|Restaurant Food Ordering Application |[Solanki Dharmistha](https://github.com/solankidharmistha),[Raulji Jaydeepsinh](https://github.com/rauljijaydeep),[Chauhan Kirtan](https://github.com/kirtan1812),[Pokiya Vasu](https://github.com/vasuponkiya)|
-|9|Music Streaming Application|||
+|9|Music Streaming Application|[Parthil Popat](https://github.com/Parthilpopat),[Pratham Chauhan](https://github.com/pratham761/pratham761),[https://github.com/vinaydeveloper](Vinay),[Sakib Khan](https://github.com/AISAKIBKHAN),[rewatisolanki](https://github.com/rewatisolanki)||
 |10|Property Rental Application|||
 |11|Note Making Application|||
 |12|Task Management Dashboard|||
@@ -38,7 +38,7 @@
 |11|Note Making Application|||
 |12|Task Management Dashboard|||
 |13|Microblogging Platform|||
-|14|Learning Management System|[Ranchu Mahato](https://github.com/ranchu01), [Shubhangi Sharma](https://github.com/Sahili21), [Veronica Ayele Gebreyes](https://github.com/Vee-Chapie)||
+|14|Learning Management System| [Ranchu Mahato](https://github.com/ranchu01), [Shubhangi Sharma](https://github.com/Shaili21), [Veronica Ayele Gebreyes](https://github.com/Vee-Chapie), [Tithi Parekh](https://github.com/Tithip26)||
 |15|Bio Tool|||
 
 
@@ -48,13 +48,13 @@
 |------|-------|--------|-------|
 |1|Crowdfunding Platform|| |
 |2|Car Showcase Application|[Shruti Mistry](https://github.com/Shruti0011),[Param Pawar](https://github.com/eye97),[Aashish Jadhav](https://github.com/1AshishJadhav),[Akhil Hadiya](https://github.com/Akhilhadiya),[Luv Gohil](https://github.com/LuvGohel) ||
-|3|Grocery Delivery Service|| |
-|4|Fashion E-Commerce|| |
+|3|Grocery Delivery Service||[Swaraj Kumar](https://github.com/swaraj29),[sahil](https://github.com/sahil04be),[Rishikesh](https://github.com/Rishikesh33),[Harsh](https://github.com/Harsh183) |
+|4|Fashion E-Commerce|[Priyam Joshi](https://github.com/priyam5099),[Pranav Rathi](https://github.com/pranavrathi1811),[Neha Arsgonda](https://github.com/210306105069),[Prashant Mali](https://github.com/prashantmali26)|
 |5|Job Search Platform|| |
 |6|Used Goods Marketplace|||
 |7|Dating Application|||
 |8|Restaurant Food Ordering Application |[Bishal Singh](https://github.com/bishal292),[Kanhaiya lal agrahari](https://github.com/sunil004200),[Anurag Gupta](https://github.com/AnuRaG388),[Aryan Hasmi](https://github.com/Aryanhasmi)||
-|9|Music Streaming Application|||
+|9|Music Streaming Application|[Indra Jit Singh](https://github.com/IndraJ1t),[jigyash yadav](),[Smruti Ranjan](),[Abhinav Raj]()||
 |10|Property Rental Application|||
 |11|Note Making Application|[Jenish Koladiya](https://github.com/jenishkoladiya),[Hetvi Patel](https://github.com/HetviPatel2704),[Aditya Joshi](https://github.com/adityajoshij),[Vishw Faldu](https://github.com/fvisw),[Govind](https://github.com/barbade22)||
 |12|Task Management Dashboard|||
@@ -65,7 +65,7 @@
 
 ## Division INT 10
 
-|Group # | Project Name | Members | Project Repository |
+|Group # | Project Name. | Members | Project Repository |
 |------|-------|--------|-------|
 |1|Crowdfunding Platform|| |
 |2|Car Showcase Application| ||
