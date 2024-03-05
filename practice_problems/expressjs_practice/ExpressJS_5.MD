@@ -67,7 +67,7 @@ route parameter
 ```
 
 
-- Now, for the route "/api/v1/movies/:id", define a handle to handle PATCH request thaat deleted particular movie using the ID field provided as route paramter
+- Now, for the route "/api/v1/movies/:id", define a handle to handle DELETE request thaat deleted particular movie using the ID field provided as route paramter
 
 ```
 
