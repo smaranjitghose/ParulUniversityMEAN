@@ -7,19 +7,17 @@
 
 1. Create a JSON array called 'orderList` which has the following records:
 
-        ```
+        ```js
             { id: 1, product: 'Apples', quantity: 2 },
             { id: 2, product: 'Bananas', quantity: 1 },
             { id: 3, product: 'Milk', quantity: 3 }
         ```
 
-       ```
+        ```
 
 
 
-      ```
-
-
+        ```
 
 
 2.  Now, for the route "/orders/:orderID", define a handler function such that for every GET request, extracts the orderID as a route parameter and 
@@ -35,7 +33,8 @@
 
 3. Create a JSON array called `productList` which has the following records:
 
-        ```{id:11,name:"Eggs",price:30,availableQty:50},
+        ```js
+            {id:11,name:"Eggs",price:30,availableQty:50},
             {id:12,name:"Flour",price:180,availableQty:3},
             {id:14,name:"Butter",price:70,availableQty:100},
             {id:15,name:"Chocolate",price:100,availableQty:20}
@@ -86,7 +85,7 @@
 **Bonus**: For each of the routes - "/orders", "/products", "/cart" , perform API testing using Postman
 
 
-    ```
+    ```shell
 
     Attach Screenshots for the same
 
