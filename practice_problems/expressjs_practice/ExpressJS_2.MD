@@ -45,5 +45,6 @@
 
 **Bonus**: For each of the routes - "/orders", "/products", "/cart", perform API testing using Postman.
 
-```shell
+```
 Attach Screenshots for the same
+```
