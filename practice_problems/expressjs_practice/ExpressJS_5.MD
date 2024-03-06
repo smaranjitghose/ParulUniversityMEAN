@@ -104,12 +104,34 @@ Now, define the following routes with appropriate handler functions:
 
 ```
 
-10. Modify the "/api/v1/getMovies" defined in Q8, to allow projection in the movie list by the `fields` query parameter. If the `fields` query parameter is not specified, exclude the "createdAt" field.
+10. Modify the "/api/v1/getMovies" defined in Q9, to allow projection in the movie list by the `fields` query parameter. If the `fields` query parameter is not specified, exclude the "createdAt" field.
 
 ```
 
 ```
 
+11. Modify the "/api/v1/getMovies" defined in Q10, to allow pagination specified by the `page` and `limit` query parameters.
+
+```
+
+```
+
+12. Define a route "/api/v1/movieStats", where an aggregation pipeline is defined with a `$match` stage to display all movies where the rating is greater or equal to 7
+
+```
+
+```
+
+13. Now, modify the "/api/v1/movieStats" in Q12, where an additional `$group` stage is used to compute and display the totalMovies`, `minYear`, `maxYear`, `averageRating`
+
+```
+
+```
+14. Now, modify the "/api/v1/movieStats" in Q12, where an additional `$sort` stage is used to display the movies in descending order of `averageRating` field
+
+```
+
+```
 
 
 
