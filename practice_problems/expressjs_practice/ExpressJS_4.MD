@@ -29,7 +29,7 @@
       
       ```
 
-**Bonus**: Test the functionalities of each of the new refactored backend using the [Postman](https://www.postman.com/downloads/)/[Thunderclient](https://www.thunderclient.com/) tool
+**Bonus**: Test the functionalities of each of the new refactored backend using the [Postman](https://www.postman.com/downloads/) OR [Thunderclient](https://www.thunderclient.com/) tool
 
 ```
 Attach Screenshots for the same
