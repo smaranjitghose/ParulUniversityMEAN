@@ -43,7 +43,7 @@
         - If all the required fields are present, it adds the data to the shopping cart,
         - Otherwise, sends a message "Please provide all the required fields" with a status code 400
 
-**Bonus**: For each of the routes - "/orders", "/products", "/cart", perform API testing using Postman.
+**Bonus**: For each of the routes - "/orders", "/products", "/cart", perform API testing using  the [Postman](https://www.postman.com/downloads/) OR [Thunderclient](https://www.thunderclient.com/) tool
 
 ```
 Attach Screenshots for the same
