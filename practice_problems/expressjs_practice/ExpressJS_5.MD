@@ -85,6 +85,33 @@ Now, define the following routes with appropriate handler functions:
 ```
 
 ```
+7. Modify the "/api/v1/getMovies" defined in Q6, to enable filtering using *only selective* query parameters : [director,rating,releaseYear,title]
+
+```
+
+```
+
+
+8. Modify the "/api/v1/getMovies" defined in Q7, to allow advance filtering using the specified query paramaters: [director,rating,releaseYear,title] such that $gte, $gt, $lte, $lt operators can be invoked
+
+```
+
+```
+
+9. Modify the "/api/v1/getMovies" defined in Q8, to allow sorting of the movie list by one or more fields specified by the `sort` query parameter
+
+```
+
+```
+
+10. Modify the "/api/v1/getMovies" defined in Q8, to allow projection in the movie list by the `fields` query parameter. If the `fields` query parameter is not specified, exclude the "createdAt" field.
+
+```
+
+```
+
+
+
 
 **Bonus**: Test the functionalities of each of the routes using the [Postman](https://www.postman.com/downloads/)/[Thunderclient](https://www.thunderclient.com/) tool
 
