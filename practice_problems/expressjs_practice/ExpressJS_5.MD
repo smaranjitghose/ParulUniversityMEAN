@@ -47,31 +47,45 @@ to MongoDB using mongoose ODM
 
 ```
 
-- Now, define a route "/api/v1/movies" to handle GET request to get a list of the movies
+Now, define the following routes with appropriate handler functions:
+
+1. "/api/v1/getMovies" which recieves GET request and returns the list of all movies
 
 ```
 
 ```
 
-- Now, for the route "/api/v1/movies", define a handle to handle POST request that creates a new movie
+2. "/api/v1/getMovie/:movieID" which recieves GET request and returns the movie matched with the particular movieID provided as router parameter
 
 ```
 
 ```
 
-- Now, for the route "/api/v1/movies/:id", define a handle to handle PATCH request that updates the details for a particular movie using the ID field provided as 
-route parameter
+3. "/api/v1/addMovie", which recieves POST request with valid movie data in JSON format and inserts it into the database after validation
+
+```
+
+```
+
+4. "/api/v1/updateMovie/:movieID", which recieves PATCH request with the fields to update JSON format, movieID as a route parameter and inserts it into the database after validation
 
 ```
 
 ```
 
 
-- Now, for the route "/api/v1/movies/:id", define a handle to handle DELETE request thaat deleted particular movie using the ID field provided as route paramter
+5. "/api/v1/deleteMovie:movieID", which recieves DELETE request with the movieID as a route parameter and inserts it into the database after validation
 
 ```
 
 ```
+
+6. Modify the "/api/v1/getMovies" defined in Q1, to enable filtering using query parameters such as rating, title, directors, etc
+
+```
+
+```
+
 
 
 
