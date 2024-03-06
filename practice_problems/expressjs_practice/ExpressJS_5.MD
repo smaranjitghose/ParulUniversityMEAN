@@ -86,6 +86,11 @@ Now, define the following routes with appropriate handler functions:
 
 ```
 
+**Bonus**: Test the functionalities of each of the routes using the [Postman](https://www.postman.com/downloads/)/[Thunderclient](https://www.thunderclient.com/) tool
+
+```
+Attach Screenshots for the same
+```
 
 
 
