@@ -36,7 +36,7 @@
     ```
 
 
-**Bonus**: Test the functionalities of each of the middleware using the POSTMAN tool
+**Bonus**: Test the functionalities of each of the middleware using the [Postman](https://www.postman.com/downloads/) OR [Thunderclient](https://www.thunderclient.com/) tool
 
 ```
 Attach Screenshots for the same
