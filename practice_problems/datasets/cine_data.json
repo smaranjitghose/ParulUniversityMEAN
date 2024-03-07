@@ -1,0 +1,170 @@
+[
+  {
+    "title": "The Shawshank Redemption",
+    "releaseYear": 1994,
+    "rating": 9.3,
+    "director": "Frank Darabont",
+    "genre": "Drama",
+    "cast": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"]
+  },
+  {
+    "title": "The Godfather",
+    "releaseYear": 1972,
+    "rating": 9.2,
+    "director": "Francis Ford Coppola",
+    "genre": "Crime",
+    "cast": ["Marlon Brando", "Al Pacino", "James Caan"]
+  },
+  {
+    "title": "The Dark Knight",
+    "releaseYear": 2008,
+    "rating": 9.0,
+    "director": "Christopher Nolan",
+    "genre": "Action",
+    "cast": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"]
+  },
+  {
+    "title": "Pulp Fiction",
+    "releaseYear": 1994,
+    "rating": 8.9,
+    "director": "Quentin Tarantino",
+    "genre": "Crime",
+    "cast": ["John Travolta", "Uma Thurman", "Samuel L. Jackson"]
+  },
+  {
+    "title": "Schindler's List",
+    "releaseYear": 1993,
+    "rating": 8.9,
+    "director": "Steven Spielberg",
+    "genre": "Biography",
+    "cast": ["Liam Neeson", "Ralph Fiennes", "Ben Kingsley"]
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "releaseYear": 2003,
+    "rating": 8.9,
+    "director": "Peter Jackson",
+    "genre": "Adventure",
+    "cast": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"]
+  },
+  {
+    "title": "Forrest Gump",
+    "releaseYear": 1994,
+    "rating": 8.8,
+    "director": "Robert Zemeckis",
+    "genre": "Drama",
+    "cast": ["Tom Hanks", "Robin Wright", "Gary Sinise"]
+  },
+  {
+    "title": "Inception",
+    "releaseYear": 2010,
+    "rating": 8.8,
+    "director": "Christopher Nolan",
+    "genre": "Action",
+    "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page"]
+  },
+  {
+    "title": "The Matrix",
+    "releaseYear": 1999,
+    "rating": 8.7,
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "genre": "Action",
+    "cast": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"]
+  },
+  {
+    "title": "Goodfellas",
+    "releaseYear": 1990,
+    "rating": 8.7,
+    "director": "Martin Scorsese",
+    "genre": "Biography",
+    "cast": ["Robert De Niro", "Ray Liotta", "Joe Pesci"]
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "releaseYear": 1991,
+    "rating": 8.6,
+    "director": "Jonathan Demme",
+    "genre": "Crime",
+    "cast": ["Jodie Foster", "Anthony Hopkins", "Lawrence A. Bonney"]
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "releaseYear": 2001,
+    "rating": 8.8,
+    "director": "Peter Jackson",
+    "genre": "Adventure",
+    "cast": ["Elijah Wood", "Ian McKellen", "Orlando Bloom"]
+  },
+  {
+    "title": "Fight Club",
+    "releaseYear": 1999,
+    "rating": 8.8,
+    "director": "David Fincher",
+    "genre": "Drama",
+    "cast": ["Brad Pitt", "Edward Norton", "Meat Loaf"]
+  },
+  {
+    "title": "The Lord of the Rings: The Two Towers",
+    "releaseYear": 2002,
+    "rating": 8.7,
+    "director": "Peter Jackson",
+    "genre": "Adventure",
+    "cast": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"]
+  },
+  {
+    "title": "The Godfather: Part II",
+    "releaseYear": 1974,
+    "rating": 9.0,
+    "director": "Francis Ford Coppola",
+    "genre": "Crime",
+    "cast": ["Al Pacino", "Robert De Niro", "Robert Duvall"]
+  },
+  {
+    "title": "The Green Mile",
+    "releaseYear": 1999,
+    "rating": 8.6,
+    "director": "Frank Darabont",
+    "genre": "Crime",
+    "cast": ["Tom Hanks", "Michael Clarke Duncan", "David Morse"]
+  },
+  {
+    "title": "Interstellar",
+    "releaseYear": 2014,
+    "rating": 8.6,
+    "director": "Christopher Nolan",
+    "genre": "Adventure",
+    "cast": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"]
+  },
+  {
+    "title": "Saving Private Ryan",
+    "releaseYear": 1998,
+    "rating": 8.6,
+    "director": "Steven Spielberg",
+    "genre": "Drama",
+    "cast": ["Tom Hanks", "Matt Damon", "Tom Sizemore"]
+  },
+  {
+    "title": "The Departed",
+    "releaseYear": 2006,
+    "rating": 8.5,
+    "director": "Martin Scorsese",
+    "genre": "Crime",
+    "cast": ["Leonardo DiCaprio", "Matt Damon", "Jack Nicholson"]
+  },
+  {
+    "title": "Gladiator",
+    "releaseYear": 2000,
+    "rating": 8.5,
+    "director": "Ridley Scott",
+    "genre": "Action",
+    "cast": ["Russell Crowe", "Joaquin Phoenix", "Connie Nielsen"]
+  },
+  {
+    "title": "The Prestige",
+    "releaseYear": 2006,
+    "rating": 8.5,
+    "director": "Christopher Nolan",
+    "genre": "Drama",
+    "cast": ["Christian Bale", "Hugh Jackman", "Scarlett Johansson"]
+  }
+]
