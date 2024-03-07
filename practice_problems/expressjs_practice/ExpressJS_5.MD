@@ -116,7 +116,7 @@ Now, define the following routes with appropriate handler functions:
 
 ```
 
-12. Define a route "/api/v1/movieStats", where an aggregation pipeline is defined with a `$match` stage to display all movies where the rating is greater or equal to 7
+12. Define a route "/api/v1/movieStats", where an aggregation pipeline is defined with a `$match` stage to display all movies where the rating is greater or equal to 8.2
 
 ```
 
