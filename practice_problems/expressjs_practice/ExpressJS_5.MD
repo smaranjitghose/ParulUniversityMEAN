@@ -122,7 +122,7 @@ Now, define the following routes with appropriate handler functions:
 
 ```
 
-13. Now, modify the "/api/v1/movieStats" in Q12, where an additional `$group` stage is used to compute and display the totalMovies`, `minYear`, `maxYear`, `averageRating`
+13. Now, modify the "/api/v1/movieStats" in Q12, where an additional `$group` stage is used to compute and display the `totalMovies`, `minYear`, `maxYear`, `averageRating`
 
 ```
 
@@ -133,7 +133,43 @@ Now, define the following routes with appropriate handler functions:
 
 ```
 
+<!--
 
+15. $unwind, $project
+
+```
+
+
+```
+
+16. Add a document middleware
+
+```
+
+
+```
+17. Add a query middleware
+
+```
+
+
+```
+
+18. Built-in Validators
+
+```
+
+
+```
+
+19.  Custom Validators
+
+```
+
+
+```
+
+-->
 
 **Bonus**: Test the functionalities of each of the routes using the [Postman](https://www.postman.com/downloads/)/[Thunderclient](https://www.thunderclient.com/) tool
 
