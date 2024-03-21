@@ -33,5 +33,5 @@
 
 ```
 
-> You may use [this](practice_problems/datasets/bookgenie/index.hbs) as a reference
+> You may use [this](./practice_problems/datasets/bookgenie/index.hbs) as a reference
 
