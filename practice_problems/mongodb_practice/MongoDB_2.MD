@@ -1,4 +1,5 @@
-# Assignment 2
+<h1 align = "center">Practical 2</h1>
+
 
 Download the [restaurant.json](https://github.com/smaranjitghose/ParulUniversityMEAN/blob/main/practice_problems/datasets/restaurants.json) and add it to a new collection
 
