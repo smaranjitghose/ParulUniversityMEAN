@@ -1,5 +1,4 @@
-# Assignment 3
-
+<h1 align = "center">Practical 3</h1>
 
 Download the [movies.json](https://github.com/smaranjitghose/ParulUniversityMEAN/blob/main/practice_problems/datasets/movies.json) dataset and add it to a new collection
 
