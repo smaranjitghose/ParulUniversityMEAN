@@ -194,3 +194,92 @@ const positiveIntegerHandler = (req, res) => {
 **Test Cases:**
 1. Request to `/positive?number=5` should return a success message.
 2. Request to `/positive?number=-2` should trigger the error handling middleware.
+
+
+## Problem 13
+
+<!-- Problem 17: Mongoose Schema and Model -->
+
+ 
+**Problem Statement:**
+Define a Mongoose schema for a "User" with properties: "username" (string) and "email" (string). Create a Mongoose model for the User schema. Implement a function to add a new user to the MongoDB database.
+ 
+**Function Signature:**
+```javascript
+/**
+* Adds a new user to the MongoDB database
+* @param {Object} user - User object with properties username and email
+*/
+const addUserToDatabase = (user) => {
+  // Your implementation here
+}
+```
+ 
+**Expected Output:**
+- If the user is successfully added, log a success message.
+ 
+**Test Cases:**
+1. Call `addUserToDatabase({ username: 'smaranjit_ghose', email: 'hello@smaranjitghose.com' })` and check the server logs for a success message.
+ 
+
+Remember to connect Mongoose to your MongoDB database using mongoose.connect.
+
+
+## Problem 14
+
+<!-- Problem 12: Express Rate Limiting -->
+
+**Problem Statement:**
+Implement a rate-limiting middleware for an Express application. The middleware should limit the number of requests from a single IP address to a specified rate, and return a 429 Too Many Requests status if the limit is exceeded.
+
+**Function Signature:**
+```javascript
+/**
+ * Rate-limiting middleware for Express
+ * @param {Object} req - Express request object
+ * @param {Object} res - Express response object
+ * @param {Function} next - Express next function
+ */
+const rateLimitMiddleware = (req, res, next) => {
+  // Your implementation here
+}
+```
+
+**Expected Output:**
+- If the number of requests from a single IP is below the limit, allow the request to proceed.
+- If the limit is exceeded, return a 429 Too Many Requests status.
+
+**Test Cases:**
+1. Send requests within the limit; all should proceed.
+2. Send requests exceeding the limit; some should return a 429 status.
+
+
+## Problem 15
+
+<!-- Problem 11: Express Authentication Middleware -->
+ 
+**Problem Statement:**
+Implement an authentication middleware for an Express application. The middleware should check for the presence of a valid JWT (JSON Web Token) in the request headers. If a valid token is present, allow the request to proceed; otherwise, return a 401 Unauthorized status.
+ 
+**Function Signature:**
+```javascript
+/**
+* Authentication middleware for Express
+* @param {Object} req - Express request object
+* @param {Object} res - Express response object
+* @param {Function} next - Express next function
+*/
+const authenticationMiddleware = (req, res, next) => {
+  // Your implementation here
+}
+```
+ 
+**Expected Output:**
+- If a valid JWT is present, allow the request to proceed.
+- If no JWT is present or it's invalid, return a 401 Unauthorized status.
+ 
+**Test Cases:**
+1. Request with a valid JWT should proceed.
+2. Request without a JWT or with an invalid JWT should return a 401 Unauthorized status.
+
+
