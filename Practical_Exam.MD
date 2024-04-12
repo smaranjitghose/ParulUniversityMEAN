@@ -1,5 +1,36 @@
 ## Problem 1
 
+## Problem 2
+
+<!-- Problem 5: File Extension Checker -->
+
+**Problem Statement:**
+Create a function `checkFileExtension(filePath, expectedExtension)` that takes a file path and an expected file extension as input. The function should check if the file has the expected extension using the `path` module and print the result to the console.
+
+**Function Signature:**
+```javascript
+const checkFileExtension = (filePath, expectedExtension)  => {
+    // Implementation
+}
+```
+
+**Expected Output:**
+```
+File has the expected extension: .txt
+```
+
+**Test Cases:**
+```javascript
+checkFileExtension('test-files/file1.txt', '.txt');
+// Expected Output: File has the expected extension: .txt
+
+checkFileExtension('test-files/image.png', '.jpg');
+// Expected Output: File does not have the expected extension. Expected: .jpg, Actual: .png
+```
+
+
+## Problem 3
+
 <!-- Problem 6: Express Route Handling -->
  
 **Problem Statement:**
@@ -26,7 +57,7 @@ function greetHandler(req, res) {
 2. Request to `/greet` should return "Hello, Guest!"
 
 
-## Problem 2
+## Problem 4
 
 <!-- Problem 7: Express Middleware -->
 
@@ -52,7 +83,7 @@ Log entries in the server console should be in the format: `{timestamp} - {HTTP 
 **Test Cases:**
 1. Any incoming request should trigger the middleware and log the appropriate message.
 
-## Problem 3
+## Problem 5
 
 <!-- Problem 8: Express Error Handling -->
 
