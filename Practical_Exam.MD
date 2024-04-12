@@ -1,5 +1,35 @@
 ## Problem 1
 
+<!-- Problem 3: Execute Command -->
+ 
+**Problem Statement:**
+Create a function `executeCommand(command)` that takes a shell command as input and executes it using the `child_process` module. The function should print the output of the command to the console.
+ 
+**Function Signature:**
+```javascript
+const executeCommand = (command) => {
+    // Implementation
+}
+```
+ 
+**Expected Output:**
+```
+Command Output:
+File1.txt
+File2.txt
+```
+ 
+**Test Cases:**
+```javascript
+executeCommand('ls -la');
+// Expected Output: (output of ls -la)
+ 
+executeCommand('echo "Hello, Node.js!"');
+// Expected Output: Hello, Node.js!
+```
+
+## Problem 2
+
 <!-- Problem 4: Resolve Path -->
  
 **Problem Statement:**
@@ -7,7 +37,7 @@ Create a function `resolvePath(relativePath)` that takes a relative path as inpu
  
 **Function Signature:**
 ```javascript
-const resolvePath = relativePath => {
+const resolvePath = (relativePath) => {
     // Implementation
 }
 ```
@@ -26,7 +56,7 @@ resolvePath('nonexistent-folder/file.txt');
 // Expected Output: Resolved Path: /Users/username/nonexistent-folder/file.txt
 ```
 
-## Problem 2
+## Problem 3
 
 <!-- Problem 5: File Extension Checker -->
 
@@ -55,7 +85,7 @@ checkFileExtension('test-files/profile_pic.png', '.jpg');
 ```
 
 
-## Problem 3
+## Problem 4
 
 <!-- Problem 6: Express Route Handling -->
  
@@ -83,7 +113,7 @@ const greetHandler = (req, res) => {
 2. Request to `/greet` should return "Namaskar, Guest!"
 
 
-## Problem 4
+## Problem 5
 
 <!-- Problem 7: Express Middleware -->
 
@@ -109,7 +139,7 @@ Log entries in the server console should be in the format: `{timestamp} - {HTTP 
 **Test Cases:**
 1. Any incoming request should trigger the middleware and log the appropriate message.
 
-## Problem 5
+## Problem 6
 
 <!-- Problem 8: Express Error Handling -->
 
