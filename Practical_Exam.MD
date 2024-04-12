@@ -1,5 +1,34 @@
 ## Problem 1
 
+<!-- Problem 2: File Writer -->
+
+ 
+**Problem Statement:**
+Create a function `writeToFile(filePath, content)` that takes the path to a file and user input content as input. The function should write the content to the specified file using the `fs` module.
+ 
+**Function Signature:**
+```javascript
+const writeToFile = (filePath, content) => {
+    // Implementation
+}
+```
+ 
+**Expected Output:**
+```
+Data written to output.txt
+```
+ 
+**Test Cases:**
+```javascript
+writeToFile('test-files/log.txt', 'Today is MSWD Exam');
+// Expected Output: Data written to log.txt
+ 
+writeToFile('test-files/nonexistent-folder/output.txt', 'Content in a non-existent folder.');
+// Expected Output: Error writing to file: ENOENT: no such file or directory...
+
+
+## Problem 2
+
 <!-- Problem 3: Execute Command -->
  
 **Problem Statement:**
@@ -28,7 +57,7 @@ executeCommand('echo "Hello, Node.js!"');
 // Expected Output: Hello, Node.js!
 ```
 
-## Problem 2
+## Problem 3
 
 <!-- Problem 4: Resolve Path -->
  
@@ -56,7 +85,7 @@ resolvePath('nonexistent-folder/file.txt');
 // Expected Output: Resolved Path: /Users/username/nonexistent-folder/file.txt
 ```
 
-## Problem 3
+## Problem 4
 
 <!-- Problem 5: File Extension Checker -->
 
@@ -85,7 +114,7 @@ checkFileExtension('test-files/profile_pic.png', '.jpg');
 ```
 
 
-## Problem 4
+## Problem 5
 
 <!-- Problem 6: Express Route Handling -->
  
@@ -113,7 +142,7 @@ const greetHandler = (req, res) => {
 2. Request to `/greet` should return "Namaskar, Guest!"
 
 
-## Problem 5
+## Problem 6
 
 <!-- Problem 7: Express Middleware -->
 
@@ -139,7 +168,7 @@ Log entries in the server console should be in the format: `{timestamp} - {HTTP 
 **Test Cases:**
 1. Any incoming request should trigger the middleware and log the appropriate message.
 
-## Problem 6
+## Problem 7
 
 <!-- Problem 8: Express Error Handling -->
 
