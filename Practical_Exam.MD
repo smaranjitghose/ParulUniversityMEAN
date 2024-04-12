@@ -25,7 +25,7 @@ writeToFile('test-files/log.txt', 'Today is MSWD Exam');
  
 writeToFile('test-files/nonexistent-folder/output.txt', 'Content in a non-existent folder.');
 // Expected Output: Error writing to file: ENOENT: no such file or directory...
-
+```
 
 ## Problem 2
 
