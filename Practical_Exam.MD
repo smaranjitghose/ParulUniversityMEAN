@@ -21,10 +21,10 @@ File has the expected extension: .txt
 
 **Test Cases:**
 ```javascript
-checkFileExtension('test-files/file1.txt', '.txt');
+checkFileExtension('test-files/report.pdf', '.pdf');
 // Expected Output: File has the expected extension: .txt
 
-checkFileExtension('test-files/image.png', '.jpg');
+checkFileExtension('test-files/profile_pic.png', '.jpg');
 // Expected Output: File does not have the expected extension. Expected: .jpg, Actual: .png
 ```
 
@@ -34,7 +34,7 @@ checkFileExtension('test-files/image.png', '.jpg');
 <!-- Problem 6: Express Route Handling -->
  
 **Problem Statement:**
-You are building a web application using Express in Node.js. Create an Express route to handle GET requests to the endpoint "/greet" that takes a query parameter "name" and returns a personalized greeting. If the name parameter is not provided, the default greeting should be "Hello, Guest!".
+You are building a web application using Express in Node.js. Create an Express route to handle GET requests to the endpoint "/greet" that takes a query parameter "name" and returns a personalized greeting. If the name parameter is not provided, the default greeting should be "Namaskar, Guest!".
  
 **Function Signature:**
 ```javascript
@@ -43,18 +43,18 @@ You are building a web application using Express in Node.js. Create an Express r
 * @param {Object} req - Express request object
 * @param {Object} res - Express response object
 */
-function greetHandler(req, res) {
+const greetHandler = (req, res) => {
   // Your implementation here
 }
 ```
  
 **Expected Output:**
-- If the "name" parameter is provided: "Hello, {name}!"
-- If the "name" parameter is not provided: "Hello, Guest!"
+- If the "name" parameter is provided: "Namaskar, {name}!"
+- If the "name" parameter is not provided: "Namaskar, Guest!"
  
 **Test Cases:**
-1. Request to `/greet?name=John` should return "Hello, John!"
-2. Request to `/greet` should return "Hello, Guest!"
+1. Request to `/greet?name=Girish` should return "Namaskar, Girish!"
+2. Request to `/greet` should return "Namaskar, Guest!"
 
 
 ## Problem 4
@@ -72,7 +72,7 @@ Implement an Express middleware function that logs the timestamp and the HTTP me
  * @param {Object} res - Express response object
  * @param {Function} next - Express next function
  */
-function requestLoggerMiddleware(req, res, next) {
+const requestLoggerMiddleware = (req, res, next) => {
   // Your implementation here
 }
 ```
@@ -97,7 +97,7 @@ Create an Express route that throws an error if the request parameter "number" i
 * @param {Object} req - Express request object
 * @param {Object} res - Express response object
 */
-function positiveIntegerHandler(req, res) {
+const positiveIntegerHandler = (req, res) => {
   // Your implementation here
 }
 ```
