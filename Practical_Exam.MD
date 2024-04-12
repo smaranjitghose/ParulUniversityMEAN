@@ -196,13 +196,18 @@ const positiveIntegerHandler = (req, res) => {
 2. Request to `/positive?number=-2` should trigger the error handling middleware.
 
 
-## Problem 13
+## Problem 8
 
 <!-- Problem 17: Mongoose Schema and Model -->
 
  
 **Problem Statement:**
-Define a Mongoose schema for a "User" with properties: "username" (string) and "email" (string). Create a Mongoose model for the User schema. Implement a function to add a new user to the MongoDB database.
+1) Define a Mongoose schema for a "User" with properties: "username" (string) and "email" (string). 
+
+2) Create a Mongoose model for the User schema. 
+
+3) Create an Express route to add a new user to the MongoDB database 
+
  
 **Function Signature:**
 ```javascript
@@ -220,12 +225,81 @@ const addUserToDatabase = (user) => {
  
 **Test Cases:**
 1. Call `addUserToDatabase({ username: 'smaranjit_ghose', email: 'hello@smaranjitghose.com' })` and check the server logs for a success message.
+
+4) Create an Express route that retrieves all users from the MongoDB database and returns them as a JSON response.
+ 
+**Function Signature:**
+```javascript
+/**
+* Express route to get all users from MongoDB
+* @param {Object} req - Express request object
+* @param {Object} res - Express response object
+*/
+const getAllUsers = (req, res) => {
+  // Your implementation here
+}
+```
+ 
+**Expected Output:**
+- Return a JSON response with an array of user objects.
+ 
+**Test Cases:**
+1. Access the route `/users` and check if the response contains the expected user data.
  
 
 Remember to connect Mongoose to your MongoDB database using mongoose.connect.
 
+## Problem 9
 
-## Problem 14
+<!-- Problem 22: MongoDB CRUD Operations -->
+ 
+**Problem Statement:**
+Implement a set of CRUD (Create, Read, Update, Delete) operations for a "Product" entity using MongoDB and Mongoose. Define a Mongoose schema for the product with properties like "name," "price," and "quantity." Implement functions to create, read, update, and delete products.
+ 
+**Function Signature:**
+```javascript
+/**
+* Creates a new product in MongoDB
+* @param {Object} product - Product object with properties name, price, and quantity
+*/
+const createProduct = (product) => {
+  // Your implementation here
+}
+ 
+/**
+* Retrieves all products from MongoDB
+* @returns {Array} - Array of product objects
+*/
+const getAllProducts = () => {
+  // Your implementation here
+}
+ 
+/**
+* Updates a product in MongoDB
+* @param {string} productId - ID of the product to update
+* @param {Object} updatedProduct - Updated product object
+*/
+const updateProduct = (productId, updatedProduct) => {
+  // Your implementation here
+}
+ 
+/**
+* Deletes a product from MongoDB
+* @param {string} productId - ID of the product to delete
+*/
+function deleteProduct(productId) {
+  // Your implementation here
+}
+```
+ 
+**Expected Output:**
+- The functions should perform the respective CRUD operations on the "Product" collection in MongoDB.
+ 
+**Test Cases:**
+1. Create a product, retrieve all products, update a product, and then delete the product.
+ 
+
+## Problem 10
 
 <!-- Problem 12: Express Rate Limiting -->
 
@@ -254,7 +328,7 @@ const rateLimitMiddleware = (req, res, next) => {
 2. Send requests exceeding the limit; some should return a 429 status.
 
 
-## Problem 15
+## Problem 11
 
 <!-- Problem 11: Express Authentication Middleware -->
  
