@@ -198,15 +198,32 @@ const positiveIntegerHandler = (req, res) => {
 
 ## Problem 8
 
-<!-- Problem 17: Mongoose Schema and Model -->
-
  
 **Problem Statement:**
-1) Define a Mongoose schema for a "User" with properties: "username" (string) and "email" (string). 
 
-2) Create a Mongoose model for the User schema. 
+1) Create an Express application with MongoDB integration using Mongoose. Implement a function to establish a connection to a MongoDB database. Ensure that the connection is successful and log a success message.
+ 
+**Function Signature:**
+```javascript
+/**
+* Establishes a connection to MongoDB using Mongoose
+*/
+const connectToMongoDB = () => {
+  // Your implementation here
+}
+```
+ 
+**Expected Output:**
+- If the connection is successful, log a success message.
+ 
+**Test Cases:**
+- Call `connectToMongoDB()` and check the server logs for a successful connection message.
 
-3) Create an Express route to add a new user to the MongoDB database 
+2) Define a Mongoose schema for a "User" with properties: "username" (string) and "email" (string). 
+
+3) Create a Mongoose model for the User schema. 
+
+4) Create an Express route to add a new user to the MongoDB database 
 
  
 **Function Signature:**
@@ -224,9 +241,9 @@ const addUserToDatabase = (user) => {
 - If the user is successfully added, log a success message.
  
 **Test Cases:**
-1. Call `addUserToDatabase({ username: 'smaranjit_ghose', email: 'hello@smaranjitghose.com' })` and check the server logs for a success message.
+- Call `addUserToDatabase({ username: 'smaranjit_ghose', email: 'hello@smaranjitghose.com' })` and check the server logs for a success message.
 
-4) Create an Express route that retrieves all users from the MongoDB database and returns them as a JSON response.
+5) Create an Express route that retrieves all users from the MongoDB database and returns them as a JSON response.
  
 **Function Signature:**
 ```javascript
@@ -244,17 +261,32 @@ const getAllUsers = (req, res) => {
 - Return a JSON response with an array of user objects.
  
 **Test Cases:**
-1. Access the route `/users` and check if the response contains the expected user data.
+- Access the route `/users` and check if the response contains the expected user data.
  
 
 Remember to connect Mongoose to your MongoDB database using mongoose.connect.
 
 ## Problem 9
 
-<!-- Problem 22: MongoDB CRUD Operations -->
- 
 **Problem Statement:**
-Implement a set of CRUD (Create, Read, Update, Delete) operations for a "Product" entity using MongoDB and Mongoose. Define a Mongoose schema for the product with properties like "name," "price," and "quantity." Implement functions to create, read, update, and delete products.
+
+
+1) Create an Express application with MongoDB integration using Mongoose. Implement a function to establish a connection to a MongoDB database. Ensure that the connection is successful and log a success message.
+ 
+**Function Signature:**
+```javascript
+/**
+* Establishes a connection to MongoDB using Mongoose
+*/
+const connectToMongoDB = () => {
+  // Your implementation here
+}
+```
+2)  Define a Mongoose schema for the product with properties like "name," "price," and "quantity."
+
+3) Create a Mongoose Model for the Product Schema
+
+4) Implement a set of CRUD (Create, Read, Update, Delete) operations for a "Product" entity using MongoDB and Mongoose Implement functions to create, read, update, and delete products.
  
 **Function Signature:**
 ```javascript
@@ -287,7 +319,7 @@ const updateProduct = (productId, updatedProduct) => {
 * Deletes a product from MongoDB
 * @param {string} productId - ID of the product to delete
 */
-function deleteProduct(productId) {
+const deleteProduct = (productId) => {
   // Your implementation here
 }
 ```
