@@ -1,6 +1,6 @@
 ## Problem 1
 
-<!-- Problem 2: File Writer -->
+
 
  
 **Problem Statement:**
@@ -144,29 +144,31 @@ const greetHandler = (req, res) => {
 
 ## Problem 6
 
-<!-- Problem 7: Express Middleware -->
-
 **Problem Statement:**
-Implement an Express middleware function that logs the timestamp and the HTTP method of every incoming request to the server.
+
+Create a logging middleware for an Express application. The middleware should log detailed information about each incoming request, including the timestamp, HTTP method, URL, request headers, and request body.
 
 **Function Signature:**
+
 ```javascript
-/**
- * Express middleware to log incoming requests
- * @param {Object} req - Express request object
- * @param {Object} res - Express response object
- * @param {Function} next - Express next function
- */
-const requestLoggerMiddleware = (req, res, next) => {
-  // Your implementation here
+/** 
+* Logging middleware for Express 
+* @param {Object} req - Express request object 
+* @param {Object} res - Express response object
+* @param {Function} next - Express next function */
+
+const loggingMiddleware = (req, res, next) => { 
+    // Your implementation here 
 }
 ```
-
 **Expected Output:**
-Log entries in the server console should be in the format: `{timestamp} - {HTTP method} request received`.
+
+- Each incoming request should be logged with detailed information.
 
 **Test Cases:**
-1. Any incoming request should trigger the middleware and log the appropriate message.
+
+- Make multiple requests and check the server logs for detailed information.
+
 
 ## Problem 7
 
