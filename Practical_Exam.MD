@@ -361,10 +361,22 @@ const rateLimitMiddleware = (req, res, next) => {
 1. Send requests within the limit; all should proceed.
 2. Send requests exceeding the limit; some should return a 429 status.
 
-
 ## Problem 11
 
-<!-- Problem 11: Express Authentication Middleware -->
+**Problem Statement:**
+
+You are developing a complex web application with multiple routes and middleware in Node.js and Express. You want to implement a centralized error handling mechanism to catch and handle errors gracefully without crashing the server. Design a middleware function that intercepts errors thrown by route handlers or other middleware and sends an appropriate error response to the client.
+ 
+**Function Signature:**
+```javascript
+const errorHandler = (err, req, res, next) => {
+    // Your implementation here
+}
+
+
+
+## Problem 12
+
  
 **Problem Statement:**
 Implement an authentication middleware for an Express application. The middleware should check for the presence of a valid JWT (JSON Web Token) in the request headers. If a valid token is present, allow the request to proceed; otherwise, return a 401 Unauthorized status.
