@@ -402,4 +402,19 @@ const authenticationMiddleware = (req, res, next) => {
 1. Request with a valid JWT should proceed.
 2. Request without a JWT or with an invalid JWT should return a 401 Unauthorized status.
 
+## Problem 13
+
+- Fork the https://github.com/smaranjitghose/ParulUniversityMEAN Repo
+- Create a clone of the forked repo
+- Make a new branch mswd_exam
+- Add a new file "DIVISION_ENROLLMENT_NO_Exam.MD"
+- The file should contain a breif definition of What is Git? Features of Git
+- Stage and Commit the Changes
+- Push to Forked Repo on GitHub
+- Make a Pull Request
+
+
+
+
+
 
