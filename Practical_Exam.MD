@@ -370,6 +370,7 @@ You are developing a complex web application with multiple routes and middleware
 const errorHandler = (err, req, res, next) => {
     // Your implementation here
 }
+```
 
 
 
